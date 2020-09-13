@@ -2,7 +2,7 @@
     "stations": [
         {
             "name": "Aljazeera",
-            "logo": "abc.png",
+            "logo": "jnews.jpg",
             "url": [
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
@@ -12,7 +12,7 @@
         },
         {
             "name": "Aljazeera Doc",
-            "logo": "abc.png",
+            "logo": "jnews.jpg",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Aljazeera Mubasher",
-            "logo": "abc.png",
+            "logo": "jnews.jpg",
             "url": [
                 "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8",                
                 "http://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
@@ -32,7 +32,7 @@
         },
         {
             "name": "Aljazeera Doc",
-            "logo": "abc.png",
+            "logo": "jnews.jpg",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8", 
