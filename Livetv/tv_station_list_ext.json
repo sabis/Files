@@ -1,7 +1,7 @@
 {
     "stations": [
         {
-            "name": "Aljazeera",
+            "name": "Aljazeera الجزيرة",
             "logo": "bbc_news.png",
             "url": [
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
