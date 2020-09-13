@@ -2,7 +2,7 @@
     "stations": [
         {
             "name": "Aljazeera",
-            "logo": "bbc_news.png",
+            "logo": "abc.png",
             "url": [
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
@@ -12,7 +12,7 @@
         },
         {
             "name": "Aljazeera Doc",
-            "logo": "bbc_world_news.png",
+            "logo": "abc.png",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Aljazeera Mubasher",
-            "logo": "bbc_news.png",
+            "logo": "abc.png",
             "url": [
                 "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8",                
                 "http://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
@@ -32,7 +32,7 @@
         },
         {
             "name": "Aljazeera Doc",
-            "logo": "bbc_world_news.png",
+            "logo": "abc.png",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8", 
@@ -49,35 +49,35 @@
         },
        {
       "name":"Arriadia",
-      "logo":"https://i.imgur.com/FOXP0T1.jpg",
+      "logo": "abc.png",
              "url": [
                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
             ]
     },
     {
       "name":"Alaoula Laayoune",
-      "logo":"http://i.imgur.com/TOzffM5.jpg",
+      "logo": "abc.png",
              "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
             ]                 
     },
     {
       "name":"Alaoula Inter",
-       "logo":"http://i.imgur.com/8WiJGEY.jpg",
+      "logo": "abc.png",
                      "url": [
         "https//cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8"
             ]  
     },
     {
       "name":"Assadissa",
-      "logo":"http://i.imgur.com/5JgvLVq.jpg",
+      "logo": "abc.png",
                       "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
             ]  
     },
     {
       "name":"Arrabiaa",
-      "logo":"http://i.imgur.com/3NeBFJi.jpg",
+      "logo": "abc.png",
                       "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
              ] 
