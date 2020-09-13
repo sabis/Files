@@ -1,6 +1,46 @@
 {
     "stations": [
         {
+            "name": "Aljazeera",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/02.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/04.m3u8"                
+            ]
+        },
+        {
+            "name": "Aljazeera Doc",
+            "logo": "bbc_world_news.png",
+            "url": [
+                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8"                
+            ]
+        },
+        {
+            "name": "Aljazeera Mubasher",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",                
+                "http://live-hls-web-aja.getaj.net/AJA/02.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/04.m3u8"                
+            ]
+        },
+        {
+            "name": "Aljazeera Doc",
+            "logo": "bbc_world_news.png",
+            "url": [
+                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8", 
+                "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8"                
+            ]
+        },
+        {
             "name": "BBC News",
             "logo": "bbc_news.png",
             "url": [
