@@ -31,13 +31,11 @@
             ]
         },
         {
-            "name": "Aljazeera Doc",
+            "name": "M24",
             "logo": "jnews.jpg",
             "url": [
-                "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
-                "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8", 
-                "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
-                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8"                
+                "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
+                "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"
             ]
         },
         {
@@ -45,6 +43,30 @@
             "logo": "abc.png",
             "url": [
                 "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8"
+            ]
+        },
+                {
+            "name": "Medi1tvArabia",
+            "logo": "jnews.jpg",
+            "url": [
+                "https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8",
+                "https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "Medi1tv Maghreb",
+            "logo": "jnews.jpg",
+            "url": [
+                "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8",
+                "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "Medi1tv Afrique",
+            "logo": "jnews.jpg",
+            "url": [
+                "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist.m3u8",
+                "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8"
             ]
         },
        {
@@ -62,7 +84,7 @@
             ]                 
     },
     {
-      "name":"Al Maghribia",
+      "name":"Almaghribia",
       "logo": "abc.png",
              "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
@@ -71,22 +93,29 @@
     {
       "name":"Arriadia",
       "logo": "abc.png",
-                     "url": [
+                "url": [
                "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
             ]  
     },
     {
       "name":"Assadissa",
       "logo": "abc.png",
-                      "url": [
+               "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
             ]  
     },
     {
       "name":"Arrabiaa",
       "logo": "abc.png",
-                      "url": [
-       "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+              "url": [
+       "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"             
+             ] 
+    },
+            {
+      "name":"Tamazight",
+      "logo": "abc.png",
+            "url": [
+       "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"                   
              ] 
     },
         {
