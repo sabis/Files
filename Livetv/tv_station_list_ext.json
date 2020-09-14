@@ -49,8 +49,8 @@
             "name": "Medi1tvArabia",
             "logo": "jnews.jpg",
             "url": [
-                "https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8",
-                "https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8"
+                "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8",
+                "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8"
             ]
         },
         {
