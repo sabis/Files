@@ -34,8 +34,8 @@
             "name": "M24",
             "logo": "jnews.jpg",
             "url": [
-                "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
-                "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"
+                "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
+                "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8"
             ]
         },
         {
@@ -118,6 +118,14 @@
        "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"                   
              ] 
     },
+    {
+            "name": "Telemaroc",
+            "logo": "jnews.jpg",
+            "url": [
+                "http://www.elahmad.com/tv/m3u8/live_stream.m3u8?id=telemaroc",
+                "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
+            ]
+        },
         {
             "name": "BBC World News",
             "logo": "bbc_world_news.png",
