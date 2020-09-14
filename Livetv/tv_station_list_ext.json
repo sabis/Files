@@ -41,17 +41,17 @@
             ]
         },
         {
-            "name": "BBC News",
+            "name": "2M",
             "logo": "abc.png",
             "url": [
-                "http://51.52.156.22:8888/http/004"
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8"
             ]
         },
        {
       "name":"Arriadia",
       "logo": "abc.png",
              "url": [
-               "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+               "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
             ]
     },
     {
