@@ -2,7 +2,7 @@
     "stations": [
         {
             "name": "Aljazeera",
-            "logo": "jnews.jpg",
+            "logo": "aljazeera.jpg",
             "url": [
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
@@ -11,16 +11,8 @@
             ]
         },
         {
-            "name": "France 2",
-            "logo": "abc.png",
-            "url": [
-                "http://62.4.22.8:7777/yacinenew1178/yacinenew1178/149?token=SxpYAhANFw0UV11UUQ8EUgcAWlUGB1ILUlEPUwNTXgUEAVIGWwBUDlRHSRJETRRRVVw9D1dDDAgDWhQVE0YDEW9RVEFZRwMEFElHRF5UAxYOAFRWA1AHCgJRDxtERQ8HEgISUltUBQMUSUdVT00DRlpQDjlXBEBQVAYaDQhACg8cGl8NPAFQWlcLARING1YWGBMLFUNDDFdCD1QbRFcPF0JZRAZBXxcGB1ddEhsbBVtBXxYUSkMMG3oiGhtEUB4XVVZDCgwLFw0UERYSGxsPR2tDBxVHE1NYWgZKFVwXVkEcGl0CGzpWWFgLAFNDUAlaRxNYRAZUBgkVTxpaCVsPF19KbxMKARcNFFFcAg8bGw",
-                "http://62.4.22.8:7777/yacinenew1178/yacinenew1178/148?token=SxpYAhANFw0UV11UUQ8EUgcAWlUGB1ILUlEPUwNTXgUEAVIGWwBUDlRHSRJETRRRVVw9D1dDDAgDWhQVE0YDEW9RVEFZRwMEFElHRF5UAxYOAFRWA1AHCgJRDxtERQ8HEgISUltUBQMUSUdVT00DRlpQDjlXBEBQVAYaDQhACg8cGl8NPAFQWlcLARING1YWGBMLFUNDDFdCD1QbRFcPF0JZRAZBXxcGB1ddEhsbBVtBXxYUSkMMG3oiGhtEUB4XVVZDCgwLFw0UERYSGxsPR2tDBxVHE1NYWgZKFVwXVkEcGl0CGzpWWFgLAFNDUAlaRxNYRAZUBgkVTxpaCVsPF19KbxMKARcNFFFcAg8bGw"
-            ]
-        },
-        {
             "name": "Aljazeera Doc",
-            "logo": "jnews.jpg",
+            "logo": "aljazeera_doc.jpg",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
@@ -30,7 +22,7 @@
         },
         {
             "name": "Aljazeera Mubasher",
-            "logo": "jnews.jpg",
+            "logo": "aljazeera_mubasher.jpg",
             "url": [
                 "http://live-hls-web-ajm.getaj.net/AJM/04.m3u8",                
                 "http://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
@@ -40,7 +32,7 @@
         },
         {
             "name": "M24",
-            "logo": "jnews.jpg",
+            "logo": "mapnews_tv.jpg",
             "url": [
                 "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
                 "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8"
@@ -48,14 +40,14 @@
         },
         {
             "name": "2M",
-            "logo": "abc.png",
+            "logo": "2m.png",
             "url": [
                 "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8"
             ]
         },
                 {
             "name": "Medi1tvArabia",
-            "logo": "jnews.jpg",
+            "logo": "medi1arabic.jpg",
             "url": [
                 "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8",
                 "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8"
@@ -63,7 +55,7 @@
         },
         {
             "name": "Medi1tv Maghreb",
-            "logo": "jnews.jpg",
+            "logo": "medi1tv.jpg",
             "url": [
                 "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8",
                 "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8"
@@ -71,7 +63,7 @@
         },
         {
             "name": "Medi1tv Afrique",
-            "logo": "jnews.jpg",
+            "logo": "medi1afrique.jpg",
             "url": [
                 "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist.m3u8",
                 "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8"
@@ -79,59 +71,59 @@
         },
        {
       "name":"Alaoula Inter",           
-      "logo": "abc.png",
+      "logo": "snrt-1.jpg",
              "url": [
                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"                 
             ]
     },
     {
       "name":"Alaoula Laayoune",
-      "logo": "abc.png",
+      "logo": "snrt-2.jpg",
              "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
             ]                 
     },
     {
       "name":"Almaghribia",
-      "logo": "abc.png",
+      "logo": "snrt-5.jpg",
              "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
             ]                 
     },    
     {
       "name":"Arriadia",
-      "logo": "abc.png",
+      "logo": "snrt-3.jpg",
                 "url": [
                "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
             ]  
     },
     {
       "name":"Assadissa",
-      "logo": "abc.png",
+      "logo": "snrt-6.jpg",
                "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
             ]  
     },
     {
       "name":"Arrabiaa",
-      "logo": "abc.png",
+      "logo": "snrt-4.jpg",
               "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"             
              ] 
     },
             {
       "name":"Tamazight",
-      "logo": "abc.png",
+      "logo": "snrt-7.jpg",
             "url": [
        "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"                   
              ] 
     },
     {
-            "name": "Telemaroc",
-            "logo": "jnews.jpg",
-            "url": [
-                "http://www.elahmad.com/tv/m3u8/live_stream.m3u8?id=telemaroc",
-                "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
+       "name": "Telemaroc",
+       "logo": "telemaroc.jpg",
+       "url": [
+        "http://www.elahmad.com/tv/m3u8/live_stream.m3u8?id=telemaroc",
+        "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
             ]
         },
         {
