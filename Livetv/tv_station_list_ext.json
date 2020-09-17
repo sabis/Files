@@ -31,15 +31,6 @@
             ]
         },
         {
-            "name": "natgeo",
-            "logo": "natgeo.jpg",
-            "url": [
-                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
-                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
-                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8
-            ]
-        },
-        {
             "name": "f24",
             "logo": "f24.jpg",
             "url": [
