@@ -30,6 +30,17 @@
                 "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8"                
             ]
         },
+		{
+            "name": "natgeo",
+            "logo": "natgeo.jpg",
+            "url": [
+                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
+            ]
+        },
         {
             "name": "f24",
             "logo": "f24.jpg",
