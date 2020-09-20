@@ -1,5 +1,23 @@
 {
     "stations": [
+	    {
+            "name": "Quran",
+            "logo": "f24.jpg",
+            "url": [
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8",
+				"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8",
+				"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_97200=2.m3u8"
+            ]
+        },
+        {
+            "name": "Sunna",
+            "logo": "f24.jpg",
+            "url": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_250000=3-mp4a_97200=2.m3u8",
+				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8",
+				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8"
+            ]
+        },
         {
             "name": "Aljazeera",
             "logo": "aljazeera.jpg",
@@ -31,6 +49,16 @@
             ]
         },
 		{
+            "name": "Aljazeera English",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",                
+                "https://live-hls-web-aje.getaj.net/AJE/05.m3u8",
+                "https://live-hls-web-aje.getaj.net/AJE/04.m3u8",
+                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"				
+            ]
+        },
+		{
             "name": "natgeo",
             "logo": "natgeo.jpg",
             "url": [
@@ -41,13 +69,76 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
             ]
         },
-        {
+		{
+            "name": "trt",
+            "logo": "f24.jpg",
+            "url": [
+                "https://tv-trtarabi.live.trt.com.tr/master_360.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_480.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_720.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8"
+            ]
+        },
+		{
+            "name": "dw",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-b.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-p.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_3_av-b.m3u8?sd=10&rebase=on"
+            ]
+        },
+		        {
+            "name": "BBCArabic",
+            "logo": "f24.jpg",
+            "url": [
+                "http://192.34.153.37:7777/BBCArabic_HD/BBCArabic_HD.m3u8?user=sgls540839&session=2b9d6e039bfb7242d6a0ff4aac413a704773cd8b3f54e1f2c59391e03eaf689a06cf85343ffa8384579a5eb2e5be3bd7&hlsid=HTTP_ID_1&starttime=20200717T070353.787884"
+            ]
+        },
+		{
             "name": "f24",
             "logo": "f24.jpg",
             "url": [
                 "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
             ]
         },
+		{
+            "name": "alarabiya",
+            "logo": "f24.jpg",
+            "url": [
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_240p.m3u8",
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8",
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8"
+            ]
+        }, 
+        {
+            "name": "f24fr",
+            "logo": "f24.jpg",
+            "url": [
+                "http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_900.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_900.m3u8"
+            ]
+        },
+		{
+            "name": "euronews",
+            "logo": "f24.jpg",
+            "url": [
+				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8",
+				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8",
+				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8"
+            ]
+        }, 
+		{
+            "name": "spacetoon",
+            "logo": "f24.jpg",
+            "url": [
+				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w26703453_b1296000_slAR.m3u8",
+				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8",
+				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+            ]
+        }, 
         {
             "name": "M24",
             "logo": "mapnews_tv.jpg",
