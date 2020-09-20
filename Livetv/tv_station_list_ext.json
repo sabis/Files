@@ -98,13 +98,6 @@
             ]
         },
 		{
-            "name": "f24",
-            "logo": "f24.jpg",
-            "url": [
-                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
-            ]
-        },
-		{
             "name": "alarabiya",
             "logo": "f24.jpg",
             "url": [
@@ -113,7 +106,13 @@
 				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8"
             ]
         }, 
-        {
+ 		{
+            "name": "f24",
+            "logo": "f24.jpg",
+            "url": [
+                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
+            ]
+        },       {
             "name": "f24fr",
             "logo": "f24.jpg",
             "url": [
