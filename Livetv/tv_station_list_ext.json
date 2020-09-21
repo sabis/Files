@@ -73,12 +73,7 @@
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
-				"http://178.18.49.42:8080/playlist.m3u8",
-				"http://178.18.49.42:8080/play/a00v",
-				"http://178.18.49.42:8080/play/a004",
-				"http://178.18.49.42:8080/play/a01c",
-				"http://178.18.49.42:8080/play/a01b",
-				"http://178.18.49.42:8080/play/a01d			
+				"http://178.18.49.42:8080/playlist.m3u8"	
             ]
         },
 		{
