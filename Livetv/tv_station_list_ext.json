@@ -58,6 +58,13 @@
                 "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"				
             ]
         },
+				{
+            "name": "francetv",
+            "logo": "f24.jpg",
+            "url": [
+				"http://178.18.49.42:8080/playlist.m3u8"	
+            ]
+        },
 		{
             "name": "natgeo",
             "logo": "natgeo.jpg",
@@ -67,13 +74,6 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8",
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
-            ]
-        },
-		{
-            "name": "francetv",
-            "logo": "f24.jpg",
-            "url": [
-				"http://178.18.49.42:8080/playlist.m3u8"	
             ]
         },
 		{
