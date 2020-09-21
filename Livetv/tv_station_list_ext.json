@@ -106,6 +106,27 @@
             "url": [
 				"https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"	
             ]
+        },
+		{
+            "name": "MA Télé",
+            "logo": "f24.jpg",
+            "url": [
+				"https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8"	
+            ]
+        },
+		{
+            "name": "Notélé",
+            "logo": "f24.jpg",
+            "url": [
+				"https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"	
+            ]
+        },
+		{
+            "name": "bel RTL",
+            "logo": "f24.jpg",
+            "url": [
+				"https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8"	
+            ]
         },		
 		{
             "name": "LCI",
