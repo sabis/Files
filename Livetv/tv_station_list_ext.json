@@ -66,6 +66,90 @@
 				"http://178.18.49.42:8080/playlist.m3u8"				
             ]
         },
+		   		{
+            "name": "TV5",
+            "logo": "f24.jpg",
+            "url": [
+				"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8",
+				"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8",
+				"http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8",
+				"https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8",
+				"https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+				"https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+				"https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8"
+            ]
+        },  
+   		{
+            "name": "teletoon+",
+            "logo": "f24.jpg",
+            "url": [
+				"http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8"
+            ]
+        }, 		
+		{
+            "name": "Canal J",
+            "logo": "f24.jpg",
+            "url": [
+				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8"
+            ]
+        }, 			
+		{
+            "name": "C Star",
+            "logo": "f24.jpg",
+            "url": [
+				"http://144.217.253.140/Cstar/index.m3u8"
+            ]
+        }, 	
+		{
+            "name": "LCI",
+            "logo": "f24.jpg",
+            "url": [
+				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8"
+            ]
+        }, 
+		{
+            "name": "BFM",
+            "logo": "f24.jpg",
+            "url": [
+				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8"
+            ]
+        }, 
+				{
+            "name": "TMC",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8"
+            ]
+        }, 
+				{
+            "name": "TF1 Séries Films",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
+            ]
+        }, 
+				{
+            "name": "TF1",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
+				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8"
+            ]
+        }, 
+				{
+            "name": "TFX",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8"
+            ]
+        }, 
+				{
+            "name": "TMC",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8"
+            ]
+        }, 
 		{
             "name": "natgeo",
             "logo": "natgeo.jpg",
