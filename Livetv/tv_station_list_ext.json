@@ -62,7 +62,8 @@
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
-				"http://178.18.49.42:8080/playlist.m3u8"	
+				"https://raw.githubusercontent.com/sabis/Files/master/Livetv/tf1.m3u8",
+				"http://178.18.49.42:8080/playlist.m3u8"				
             ]
         },
 		{
@@ -105,13 +106,6 @@
             ]
         },
 		{
-            "name": "f24",
-            "logo": "f24.jpg",
-            "url": [
-                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
-            ]
-        },
-		{
             "name": "alarabiya",
             "logo": "f24.jpg",
             "url": [
@@ -119,7 +113,14 @@
 				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8",
 				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8"
             ]
-        }, 
+        },
+		{
+            "name": "f24",
+            "logo": "f24.jpg",
+            "url": [
+                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
+            ]
+        },		
         {
             "name": "f24fr",
             "logo": "f24.jpg",
