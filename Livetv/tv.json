@@ -106,10 +106,18 @@
             ]
         }, 
 		{
+            "name": "France 2",
+            "logo": "f24.jpg",
+            "url": [
+				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
+				"http://176.10.117.3:5000/play/a02v"
+            ]
+        },		{
             "name": "France 3",
             "logo": "f24.jpg",
             "url": [
-				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8"	
+				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
+				"http://176.10.117.3:5000/play/a02w"				
             ]
         },		{
             "name": "France 4",
@@ -121,10 +129,18 @@
             "name": "France 5",
             "logo": "f24.jpg",
             "url": [
-				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8"	
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8",
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8"				
             ]
         },
-		{
+	    },		{
+            "name": "France O",
+            "logo": "f24.jpg",
+            "url": [
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8",
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8"				
+            ]
+        },	{
             "name": "France Info",
             "logo": "f24.jpg",
             "url": [
@@ -137,7 +153,13 @@
 				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8"	
             ]
         },		
-		{
+        },		{
+            "name": "M6",
+            "logo": "f24.jpg",
+            "url": [
+				"http://176.10.117.3:5000/play/a02x"	
+            ]
+        },		{
             "name": "LCI",
             "logo": "f24.jpg",
             "url": [
@@ -265,6 +287,12 @@
             ]
         },
 		{
+            "name": "alarabiya",
+            "logo": "f24.jpg",
+            "url": [
+                "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+            ]
+        },		{
             "name": "f24",
             "logo": "f24.jpg",
             "url": [
