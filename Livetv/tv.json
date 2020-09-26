@@ -61,7 +61,7 @@
                 "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"				
             ]
         },
-	{
+		{
             "name": "natgeo",
             "logo": "natgeo.jpg",
             "url": [
@@ -72,7 +72,7 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
             ]
         },
-				{
+		{
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
@@ -184,9 +184,9 @@
 			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOuDDtO8kRabM7Vx5dkyS2T58cMCdY0wNU3GPDZ8-v5S)/p/dm/3/x5idxxp/d/live-0.m3u8",
 			"https://stream-07.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gT_96VBEkPLReY1ux4pusJg)/dm/3/x3b68jn/d/live-1.m3u8"
             ]
-        }, 
-	{
-	    "name": "LCI",
+        },
+ 	    {		
+			"name": "LCI",
             "logo": "f24.jpg",
             "url": [
 				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8"
@@ -228,14 +228,14 @@
 				"http://176.10.117.3:5000/play/a02v"
             ]
         }, 
-	{
+				{
             "name": "TFX",
             "logo": "f24.jpg",
             "url": [
 				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8"
             ]
         }, 
-	{
+				{
             "name": "TMC",
             "logo": "f24.jpg",
             "url": [
@@ -386,58 +386,58 @@
             ]
         },
        {
-      "name":"Alaoula Inter",           
-      "logo": "snrt-1.jpg",
-             "url": [
+			"name":"Alaoula Inter",           
+			"logo": "snrt-1.jpg",
+            "url": [
                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"                 
             ]
-    },
-    {
-      "name":"Alaoula Laayoune",
-      "logo": "snrt-2.jpg",
-             "url": [
+		},
+		{
+			"name":"Alaoula Laayoune",
+			"logo": "snrt-2.jpg",
+            "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
             ]                 
-    },
-    {
-      "name":"Almaghribia",
-      "logo": "snrt-5.jpg",
-             "url": [
+		},
+		{
+			  "name":"Almaghribia",
+			  "logo": "snrt-5.jpg",
+			  "url": [
         "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
             ]                 
     },    
     {
-      "name":"Arriadia",
-      "logo": "snrt-3.jpg",
-                "url": [
+			  "name":"Arriadia",
+			  "logo": "snrt-3.jpg",
+              "url": [
                "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
             ]  
     },
     {
-      "name":"Assadissa",
-      "logo": "snrt-6.jpg",
-               "url": [
+			  "name":"Assadissa",
+			  "logo": "snrt-6.jpg",
+              "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
             ]  
     },
     {
-      "name":"Arrabiaa",
-      "logo": "snrt-4.jpg",
+			  "name":"Arrabiaa",
+			  "logo": "snrt-4.jpg",
               "url": [
        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"             
              ] 
     },
             {
-      "name":"Tamazight",
-      "logo": "snrt-7.jpg",
+			"name":"Tamazight",
+			"logo": "snrt-7.jpg",
             "url": [
        "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"                   
              ] 
     },
     {
-       "name": "Telemaroc",
-       "logo": "telemaroc.jpg",
-       "url": [
+		   "name": "Telemaroc",
+		   "logo": "telemaroc.jpg",
+		   "url": [
         "http://www.elahmad.com/tv/m3u8/live_stream.m3u8?id=telemaroc",
         "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
             ]
