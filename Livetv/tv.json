@@ -25,7 +25,8 @@
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/02.m3u8",
-                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8"                
+                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",
+                "http://edge-1192-ch-gv.filmon.com/live/3035.high.stream/playlist.m3u8"
             ]
         },
         {
@@ -35,7 +36,8 @@
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
-                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8"                
+                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
+                "https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8"
             ]
         },
         {
@@ -45,7 +47,8 @@
                 "http://live-hls-web-ajm.getaj.net/AJM/04.m3u8",                
                 "http://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
                 "http://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
-                "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8"                
+                "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8",
+                "http://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8"
             ]
         },
 		{
@@ -90,42 +93,48 @@
             "name": "Canal J",
             "logo": "f24.jpg",
             "url": [
-				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8"
+				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8",
+				"http://144.217.253.140/Canalj/index.m3u8"
             ]
         }, 			
 		{
             "name": "C Star",
             "logo": "f24.jpg",
             "url": [
-				"http://144.217.253.140/Cstar/index.m3u8"
+				"http://144.217.253.140/Cstar/index.m3u8",
+				"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8"
             ]
         }, 
 		{
-            "name": "ln24",
+            "name": "France 3",
             "logo": "f24.jpg",
             "url": [
-				"https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"	
+				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8"	
+            ]
+        },		{
+            "name": "France 4",
+            "logo": "f24.jpg",
+            "url": [
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8"	
+            ]
+        },		{
+            "name": "France 5",
+            "logo": "f24.jpg",
+            "url": [
+				"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8"	
             ]
         },
 		{
-            "name": "MA Télé",
+            "name": "France Info",
             "logo": "f24.jpg",
             "url": [
-				"https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8"	
+				"https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8"	
             ]
-        },
-		{
-            "name": "Notélé",
+        },		{
+            "name": "Arte",
             "logo": "f24.jpg",
             "url": [
-				"https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"	
-            ]
-        },
-		{
-            "name": "bel RTL",
-            "logo": "f24.jpg",
-            "url": [
-				"https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8"	
+				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8"	
             ]
         },		
 		{
@@ -142,6 +151,13 @@
 				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8"
             ]
         }, 
+		{
+            "name": "ln24",
+            "logo": "f24.jpg",
+            "url": [
+				"https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"	
+            ]
+        },
 		{
             "name": "TF1 Séries Films",
             "logo": "f24.jpg",
@@ -381,7 +397,9 @@
             "name": "BBC News",
             "logo": "bbc_news.png",
             "url": [
-                "http://51.52.156.22:8888/http/004"
+                "http://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8",
+				"http://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8",
+				"http://51.52.156.22:8888/http/004"
             ]
         },
         {
