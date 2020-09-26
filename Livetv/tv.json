@@ -76,8 +76,9 @@
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
-				"https://raw.githubusercontent.com/sabis/Files/master/Livetv/tf1.m3u8",
-				"http://178.18.49.42:8080/playlist.m3u8"				
+		 "http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1883",
+		"https://raw.githubusercontent.com/sabis/Files/master/Livetv/tf1.m3u8",
+		"http://178.18.49.42:8080/playlist.m3u8"				
             ]
         },
 		   		{
