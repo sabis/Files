@@ -154,7 +154,8 @@
             "logo": "f24.jpg",
             "url": [
 				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
-				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8"
+				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8",
+				"http://176.10.117.3:5000/play/a02v"
             ]
         }, 
 				{
