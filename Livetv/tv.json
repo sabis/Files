@@ -61,6 +61,17 @@
                 "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"				
             ]
         },
+	{
+            "name": "natgeo",
+            "logo": "natgeo.jpg",
+            "url": [
+                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
+				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
+            ]
+        },
 				{
             "name": "francetv",
             "logo": "f24.jpg",
@@ -112,14 +123,16 @@
 				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
 				"http://176.10.117.3:5000/play/a02v"
             ]
-        },		{
+        },		
+	    {
             "name": "France 3",
             "logo": "f24.jpg",
             "url": [
 				"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
 				"http://176.10.117.3:5000/play/a02w"				
             ]
-        },		{
+        },		
+	    {
             "name": "France 4",
             "logo": "f24.jpg",
             "url": [
@@ -146,14 +159,15 @@
             "url": [
 				"https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8"	
             ]
-        },		{
+        },		
+	    {
             "name": "Arte",
             "logo": "f24.jpg",
             "url": [
 				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8"	
             ]
-        },		
-        },		{
+        },			
+	    {
             "name": "M6",
             "logo": "f24.jpg",
             "url": [
@@ -244,18 +258,7 @@
 				"https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8"	
             ]
         },		
-		{
-            "name": "natgeo",
-            "logo": "natgeo.jpg",
-            "url": [
-                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
-				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
-				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8",
-				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
-				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
-            ]
-        },
-		{
+	{
             "name": "trt",
             "logo": "f24.jpg",
             "url": [
