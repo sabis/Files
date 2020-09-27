@@ -248,7 +248,11 @@
             "logo": "f24.jpg",
             "url": [
 				"https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8",
-				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8"
+				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8",
+		    		"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on",
+				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-b.m3u8?sd=10&rebase=on",
+				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_4_av-p.m3u8?sd=10&rebase=on",
+				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_4_av-b.m3u8?sd=10&rebase=on"
             ]
         },			
 	    {
