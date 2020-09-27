@@ -344,7 +344,8 @@
             "name": "Gulli +VPN Fr",
             "logo": "f24.jpg",
             "url": [
-			"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8"
+			"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
+		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
             ]
         }, 		
 	{
