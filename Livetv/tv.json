@@ -340,13 +340,20 @@
 				"https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8"
             ]
         }, 		
-		{
+	{
+            "name": "Gulli +VPN Fr",
+            "logo": "f24.jpg",
+            "url": [
+			"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8"
+            ]
+        }, 		
+	{
             "name": "teletoon+",
             "logo": "f24.jpg",
             "url": [
 				"http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8"
             ]
-        }, 		
+        }, 			
 	{
             "name": "Canal J",
             "logo": "f24.jpg",
