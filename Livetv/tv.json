@@ -529,7 +529,793 @@
                 "https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8",
 				"https://edge-1192-ch-gv.filmon.com/live/3386.low.stream/playlist.m3u8"
             ]
-        },        
+        }, 
+        {
+            "name": "4seven",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05q/index.m3u8"
+            ]
+        },
+        {
+            "name": "5 USA",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01k/index.m3u8"
+            ]
+        },
+        {
+            "name": "5SELECT",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01n/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "5STAR",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01m/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "5STAR+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01o/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "5USA+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01l/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "6945",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01x/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC Four HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05n/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC Four HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05l/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC NEWS HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05j/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01v/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a020/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One NI HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a021/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One NI HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01w/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One ScotHD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05h/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC One Wal HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05i/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC Two HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01u/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC Two HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01z/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBC Two Wal HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01t/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "BBCScotlandHD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05k/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "Box Hits",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a052/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "CBBC HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01y/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "CBBC HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a022/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "CBeebies HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05o/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "Challenge",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04q/index.m3u8"
+            ]
+        },
+
+        {
+            "name": "Channel 4 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05p/index.m3u8"
+            ]
+        },
+        {
+            "name": "Channel 5 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01q/index.m3u8"
+            ]
+        },
+        {
+            "name": "Channel 5 south central",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01j/index.m3u8"
+            ]
+        },
+        {
+            "name": "Channel 5+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01p/index.m3u8"
+            ]
+        },
+        {
+            "name": "DMAX",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a042/index.m3u8"
+            ]
+        },
+        {
+            "name": "DMAX+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03y/index.m3u8"
+            ]
+        },
+        {
+            "name": "Dave",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04f/index.m3u8"
+            ]
+        },
+        {
+            "name": "Drama",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04h/index.m3u8"
+            ]
+        },
+        {
+            "name": "Drama",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04g/index.m3u8"
+            ]
+        },
+        {
+            "name": "Drama+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04j/index.m3u8"
+            ]
+        },
+        {
+            "name": "FRANCE 24 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02o/index.m3u8"
+            ]
+        },
+        {
+            "name": "Food Network",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03z/index.m3u8"
+            ]
+        },
+        {
+            "name": "Food Netwrk+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a041/index.m3u8"
+            ]
+        },
+        {
+            "name": "Forces TV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04r/index.m3u8"
+            ]
+        },
+        {
+            "name": "FreeSports HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02p/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a025/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a026/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a027/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a028/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02c/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02d/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02i/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV 1 sd",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a056/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV HD central west",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02h/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV HD london",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02f/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV HD meridian south",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02g/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV Wales",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03b/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV Wales HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a024/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV West Country",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03e/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV anglia",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a037/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV border scotland",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a039/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV central east",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03a/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV meridian",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a035/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV south west",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05d/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV yorkshire",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a038/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03f/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV+1 granada",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05e/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV+1 tyne tees",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a036/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV+1 wales",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03c/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV+1 yorkshire",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03d/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV3",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05r/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV3",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05f/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV3+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05s/index.m3u8"
+            ]
+        },
+        {
+            "name": "ITV3+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05g/index.m3u8"
+            ]
+        },
+        {
+            "name": "KISS",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a053/index.m3u8"
+            ]
+        },
+        {
+            "name": "Kerrang!",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a054/index.m3u8"
+            ]
+        },
+        {
+            "name": "Magic",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a050/index.m3u8"
+            ]
+        },
+        {
+            "name": "POP",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03m/index.m3u8"
+            ]
+        },
+        {
+            "name": "POP Max",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03o/index.m3u8"
+            ]
+        },
+        {
+            "name": "POP Max+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03q/index.m3u8"
+            ]
+        },
+        {
+            "name": "POP+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03s/index.m3u8"
+            ]
+        },
+        {
+            "name": "Paramount",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a01r/index.m3u8"
+            ]
+        },
+        {
+            "name": "Pick",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04l/index.m3u8"
+            ]
+        },
+        {
+            "name": "Pick+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04m/index.m3u8"
+            ]
+        },
+        {
+            "name": "QUEST",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a049/index.m3u8"
+            ]
+        },
+        {
+            "name": "QUEST HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a075/index.m3u8"
+            ]
+        },
+        {
+            "name": "QUEST+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04b/index.m3u8"
+            ]
+        },
+        {
+            "name": "Quest Red",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04a/index.m3u8"
+            ]
+        },
+        {
+            "name": "Quest Red+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a048/index.m3u8"
+            ]
+        },
+        {
+            "name": "S4C HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02n/index.m3u8"
+            ]
+        },
+        {
+            "name": "STV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05a/index.m3u8"
+            ]
+        },
+        {
+            "name": "STV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a059/index.m3u8"
+            ]
+        },
+        {
+            "name": "STV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a058/index.m3u8"
+            ]
+        },
+        {
+            "name": "STV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a057/index.m3u8"
+            ]
+        },
+        {
+            "name": "STV HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02a/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sky News",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04n/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Action",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03h/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Action+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03r/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Channel",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03t/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Channel+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03u/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Classic",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03j/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Classic+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03k/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Crime",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03v/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Movies",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03i/index.m3u8"
+            ]
+        },
+        {
+            "name": "Sony Movies+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03p/index.m3u8"
+            ]
+        },
+       {
+            "name": "The Box",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a051/index.m3u8"
+            ]
+        },
+        {
+            "name": "Tiny Pop",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03l/index.m3u8"
+            ]
+        },
+        {
+            "name": "Tiny Pop+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03n/index.m3u8"
+            ]
+        },
+        {
+            "name": "Together",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04p/index.m3u8"
+            ]
+        },
+        {
+            "name": "Travel Channel",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a03x/index.m3u8"
+            ]
+        },
+        {
+            "name": "UTV",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05b/index.m3u8"
+            ]
+        },
+        {
+            "name": "UTV HD",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a02b/index.m3u8"
+            ]
+        },
+        {
+            "name": "UTV+1",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a05c/index.m3u8"
+            ]
+        },
+        {
+            "name": "YESTERDAY",
+            "logo": "bbc_news.png",
+            "url": [
+                "http://37.9.56.206:8000/play/a04e/index.m3u8"
+            ]
+        },		
 		{
             "name": "Sky News",
             "logo": "sky_news.png",
