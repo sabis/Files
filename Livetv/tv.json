@@ -338,7 +338,9 @@
             "name": "TFX",
             "logo": "f24.jpg",
             "url": [
-				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8"
+				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
+                                "https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_1828.m3u8",
+                                "http://ios-q1-ssl.tf1.fr/2/USP-0x0/08/33/13640833/ssm/13640833.ism/13640833-audio=128000-video=2500566.m3u8"
             ]
         }, 
 	{
