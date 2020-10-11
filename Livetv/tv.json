@@ -295,14 +295,16 @@
 	    "name": "LCI",
             "logo": "f24.jpg",
             "url": [
-				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8"
+				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+		    		"http://190.2.138.13/LCI/index.m3u8?token=test"
             ]
         }, 
 	{
             "name": "BFM",
             "logo": "f24.jpg",
             "url": [
-				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8"
+				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
+		    		"http://190.2.138.13/BFM/index.m3u8?token=test"	  
             ]
         }, 
 	{
@@ -331,6 +333,7 @@
             "url": [
 				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
 				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8",
+		    		"http://190.2.138.13/BFM/index.m3u8?token=test"
 				"http://176.10.117.3:5000/play/a02v"
             ]
         }, 
@@ -382,6 +385,13 @@
             ]
         }, 		
 	{
+            "name": "Piwi",
+            "logo": "f24.jpg",
+            "url": [
+			"http://flusonic-4.platinum-tv.com/Piwi/index.m3u8?token=test"
+            ]
+        }, 
+	    {
             "name": "Boing",
             "logo": "f24.jpg",
             "url": [
@@ -404,7 +414,14 @@
             ]
         }, 			
 	{
-            "name": "andflixhd",
+
+            "name": "Teva",
+            "logo": "f24.jpg",
+            "url": [
+				"http://190.2.138.13/Teva/index.m3u8?token=test"
+            ]
+        },    
+	{         "name": "andflixhd",
             "logo": "f24.jpg",
             "url": [
 				"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"
