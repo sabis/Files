@@ -393,6 +393,13 @@
 			"http://flusonic-4.platinum-tv.com/Piwi/index.m3u8?token=test"
             ]
         }, 
+	{
+            "name": "Tiji",
+            "logo": "f24.jpg",
+            "url": [
+			"http://flusonic-4.platinum-tv.com/Tiji/index.m3u8?token=test"
+            ]
+        }, 	    
 	    {
             "name": "Boing",
             "logo": "f24.jpg",
