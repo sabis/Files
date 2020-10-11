@@ -350,7 +350,9 @@
             "name": "TMC",
             "logo": "f24.jpg",
             "url": [
-				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8"
+				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
+		  		"http://190.2.138.13/TMC/index.m3u8?token=test",
+				"http://190.2.138.13:8080/TMC/index.m3u8?token=test"
             ]
         }, 
 	{
