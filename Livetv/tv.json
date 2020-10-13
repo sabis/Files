@@ -54,6 +54,7 @@
             "name": "Aljazeera Doc",
             "logo": "aljazeera_doc.jpg",
             "url": [
+		"https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
