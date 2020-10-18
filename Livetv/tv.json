@@ -182,7 +182,7 @@
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
-				"https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8",
+				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=81&profile=2&token=",
 		    		"http://62.4.22.8:7777/yacinetv2210/yacinetv2210/161?token=SxpYAhANFw0UAAQIVVoHBVFQVARWWFcKBAIAUgIEVAcFDFIHBQMBAFdHSRJETRRRVVw9D1dDDAgDVBQVE0YDEW9RVEFZRwMPFElHRF5UAxYOAFRWAlABDAVSCBtERQ8HEgISUVtSDA4USUdVT00DRlpQDjlXBEBQVAYaDQhACg8cGl8NPAFQWlcLARING1YWGBMLFUNDDFdCD1QbRFcPF0JZRAZBXxcAB1ZdEhsbBVtBXxYUSkMMG3oiGhtEUB4XVVZDCgwLFw0UERYSGxsPR2tDBxVHE1NYWgZKFVwXVkEcGl0CGzpWWFgLAFNDUAlaRxNYRAZUBgkVTxpaCVsPF19KbxMKARcNFFFdCAIbGw==",
 		    		"http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1883",
 				"http://190.2.151.163:3333/sunshine/zfqLOoQIeA-Ctv4-t2iThTJzbIRl97HYWvek2oFAvxcPP7Scmrbclbw5IQOiAjgBd9atEew4VT4_1Uv2MaGta1W3tTX4cehBdsAq16-xTQ4CvnPO63Om6pyI67ajJuOSKAvUGPdFhpYWGLiJUQKnXnATerm-UpTPeLD3faINtCcnPX-vCpg0R1MGthcNpudz/v.ts",
