@@ -179,6 +179,97 @@
             ]
         },
 		{
+            "name": "trt",
+            "logo": "f24.jpg",
+            "url": [
+                "https://tv-trtarabi.live.trt.com.tr/master_360.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_480.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_720.m3u8",
+				"https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8"
+            ]
+        },
+	{
+            "name": "dw",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-b.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-p.m3u8?sd=10&rebase=on",
+				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_3_av-b.m3u8?sd=10&rebase=on"
+            ]
+        },
+		{
+            "name": "BBCArabic",
+            "logo": "f24.jpg",
+            "url": [
+				"https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8",                
+				"http://192.34.153.37:7777/BBCArabic_HD/BBCArabic_HD.m3u8?user=sgls540839&session=2b9d6e039bfb7242d6a0ff4aac413a704773cd8b3f54e1f2c59391e03eaf689a06cf85343ffa8384579a5eb2e5be3bd7&hlsid=HTTP_ID_1&starttime=20200717T070353.787884"
+            ]
+        },
+		{
+            "name": "Skynews Arabia",
+            "logo": "f24.jpg",
+            "url": [
+				"https://stream.skynewsarabia.com/hls/sna.m3u8"
+            ]
+        },	
+		{
+            "name": "alarabiya",
+            "logo": "f24.jpg",
+            "url": [
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_240p.m3u8",
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8",
+				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8"
+            ]
+        },
+		{
+            "name": "alarabiya alhadath",
+            "logo": "f24.jpg",
+            "url": [
+                "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+            ]
+        },
+		{
+            "name": "f24ar",
+            "logo": "f24.jpg",
+            "url": [
+				"http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master.m3u8"
+            ]
+        },		
+        {
+            "name": "f24fr",
+            "logo": "f24.jpg",
+            "url": [
+				"http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
+                "http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_900.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_900.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8"			
+            ]
+        },
+	    {
+            "name": "f24en",
+            "logo": "f24.jpg",
+            "url": [
+				"http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+                "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_900.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8",
+				"http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"				
+            ]
+        },	
+		{
+            "name": "euronews",
+            "logo": "f24.jpg",
+            "url": [
+				"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8",
+		    		"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8",
+				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8",
+				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8"
+            ]
+        },		
+		{
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
@@ -313,6 +404,7 @@
             "name": "BFM Paris",
             "logo": "f24.jpg",
             "url": [
+				"http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on",
 				"https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
             ]
         }, {
@@ -465,84 +557,7 @@
 				"https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8"	
             ]
         },		
-	{
-            "name": "trt",
-            "logo": "f24.jpg",
-            "url": [
-                "https://tv-trtarabi.live.trt.com.tr/master_360.m3u8",
-				"https://tv-trtarabi.live.trt.com.tr/master_480.m3u8",
-				"https://tv-trtarabi.live.trt.com.tr/master_720.m3u8",
-				"https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8"
-            ]
-        },
-	{
-            "name": "dw",
-            "logo": "f24.jpg",
-            "url": [
-				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on",
-				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on",
-				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-b.m3u8?sd=10&rebase=on",
-				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_2_av-p.m3u8?sd=10&rebase=on",
-				"https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_3_av-b.m3u8?sd=10&rebase=on"
-            ]
-        },
-	{
-            "name": "BBCArabic",
-            "logo": "f24.jpg",
-            "url": [
-				"https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8",                
-				"http://192.34.153.37:7777/BBCArabic_HD/BBCArabic_HD.m3u8?user=sgls540839&session=2b9d6e039bfb7242d6a0ff4aac413a704773cd8b3f54e1f2c59391e03eaf689a06cf85343ffa8384579a5eb2e5be3bd7&hlsid=HTTP_ID_1&starttime=20200717T070353.787884"
-            ]
-        },
-		{
-            "name": "Skynews Arabia",
-            "logo": "f24.jpg",
-            "url": [
-				"https://stream.skynewsarabia.com/hls/sna.m3u8"
-            ]
-        },	
-		{
-            "name": "alarabiya",
-            "logo": "f24.jpg",
-            "url": [
-				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_240p.m3u8",
-				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8",
-				"https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8"
-            ]
-        },
-	{
-            "name": "alarabiya alhadath",
-            "logo": "f24.jpg",
-            "url": [
-                "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
-            ]
-        },
-	{
-            "name": "f24",
-            "logo": "f24.jpg",
-            "url": [
-                "http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8"
-            ]
-        },		
-        {
-            "name": "f24fr",
-            "logo": "f24.jpg",
-            "url": [
-                "http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_900.m3u8",
-				"http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_900.m3u8"
-            ]
-        },
-	{
-            "name": "euronews",
-            "logo": "f24.jpg",
-            "url": [
-				"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8",
-		    		"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8",
-				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8",
-				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8"
-            ]
-        }, 
-        {
+	   {
             "name": "BBC News",
             "logo": "bbc_news.png",
             "url": [
@@ -567,792 +582,6 @@
 				"https://edge-1192-ch-gv.filmon.com/live/3386.low.stream/playlist.m3u8"
             ]
         }, 
-        {
-            "name": "4seven",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05q/index.m3u8"
-            ]
-        },
-        {
-            "name": "5 USA",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01k/index.m3u8"
-            ]
-        },
-        {
-            "name": "5SELECT",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01n/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "5STAR",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01m/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "5STAR+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01o/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "5USA+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01l/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "6945",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01x/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC Four HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05n/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC Four HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05l/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC NEWS HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05j/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01v/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a020/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One NI HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a021/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One NI HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01w/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One ScotHD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05h/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC One Wal HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05i/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC Two HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01u/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC Two HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01z/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBC Two Wal HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01t/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "BBCScotlandHD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05k/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "Box Hits",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a052/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "CBBC HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01y/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "CBBC HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a022/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "CBeebies HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05o/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "Challenge",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04q/index.m3u8"
-            ]
-        },
-
-        {
-            "name": "Channel 4 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05p/index.m3u8"
-            ]
-        },
-        {
-            "name": "Channel 5 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01q/index.m3u8"
-            ]
-        },
-        {
-            "name": "Channel 5 south central",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01j/index.m3u8"
-            ]
-        },
-        {
-            "name": "Channel 5+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01p/index.m3u8"
-            ]
-        },
-        {
-            "name": "DMAX",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a042/index.m3u8"
-            ]
-        },
-        {
-            "name": "DMAX+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03y/index.m3u8"
-            ]
-        },
-        {
-            "name": "Dave",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04f/index.m3u8"
-            ]
-        },
-        {
-            "name": "Drama",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04h/index.m3u8"
-            ]
-        },
-        {
-            "name": "Drama",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04g/index.m3u8"
-            ]
-        },
-        {
-            "name": "Drama+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04j/index.m3u8"
-            ]
-        },
-        {
-            "name": "FRANCE 24 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02o/index.m3u8"
-            ]
-        },
-        {
-            "name": "Food Network",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03z/index.m3u8"
-            ]
-        },
-        {
-            "name": "Food Netwrk+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a041/index.m3u8"
-            ]
-        },
-        {
-            "name": "Forces TV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04r/index.m3u8"
-            ]
-        },
-        {
-            "name": "FreeSports HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02p/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a025/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a026/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a027/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a028/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02c/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02d/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02i/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV 1 sd",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a056/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV HD central west",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02h/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV HD london",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02f/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV HD meridian south",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02g/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV Wales",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03b/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV Wales HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a024/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV West Country",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03e/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV anglia",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a037/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV border scotland",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a039/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV central east",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03a/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV meridian",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a035/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV south west",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05d/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV yorkshire",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a038/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03f/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV+1 granada",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05e/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV+1 tyne tees",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a036/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV+1 wales",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03c/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV+1 yorkshire",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03d/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV3",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05r/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV3",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05f/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV3+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05s/index.m3u8"
-            ]
-        },
-        {
-            "name": "ITV3+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05g/index.m3u8"
-            ]
-        },
-        {
-            "name": "KISS",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a053/index.m3u8"
-            ]
-        },
-        {
-            "name": "Kerrang!",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a054/index.m3u8"
-            ]
-        },
-        {
-            "name": "Magic",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a050/index.m3u8"
-            ]
-        },
-        {
-            "name": "POP",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03m/index.m3u8"
-            ]
-        },
-        {
-            "name": "POP Max",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03o/index.m3u8"
-            ]
-        },
-        {
-            "name": "POP Max+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03q/index.m3u8"
-            ]
-        },
-        {
-            "name": "POP+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03s/index.m3u8"
-            ]
-        },
-        {
-            "name": "Paramount",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a01r/index.m3u8"
-            ]
-        },
-        {
-            "name": "Pick",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04l/index.m3u8"
-            ]
-        },
-        {
-            "name": "Pick+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04m/index.m3u8"
-            ]
-        },
-        {
-            "name": "QUEST",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a049/index.m3u8"
-            ]
-        },
-        {
-            "name": "QUEST HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a075/index.m3u8"
-            ]
-        },
-        {
-            "name": "QUEST+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04b/index.m3u8"
-            ]
-        },
-        {
-            "name": "Quest Red",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04a/index.m3u8"
-            ]
-        },
-        {
-            "name": "Quest Red+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a048/index.m3u8"
-            ]
-        },
-        {
-            "name": "S4C HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02n/index.m3u8"
-            ]
-        },
-        {
-            "name": "STV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05a/index.m3u8"
-            ]
-        },
-        {
-            "name": "STV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a059/index.m3u8"
-            ]
-        },
-        {
-            "name": "STV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a058/index.m3u8"
-            ]
-        },
-        {
-            "name": "STV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a057/index.m3u8"
-            ]
-        },
-        {
-            "name": "STV HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02a/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sky News",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04n/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Action",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03h/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Action+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03r/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Channel",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03t/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Channel+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03u/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Classic",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03j/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Classic+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03k/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Crime",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03v/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Movies",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03i/index.m3u8"
-            ]
-        },
-        {
-            "name": "Sony Movies+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03p/index.m3u8"
-            ]
-        },
-       {
-            "name": "The Box",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a051/index.m3u8"
-            ]
-        },
-        {
-            "name": "Tiny Pop",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03l/index.m3u8"
-            ]
-        },
-        {
-            "name": "Tiny Pop+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03n/index.m3u8"
-            ]
-        },
-        {
-            "name": "Together",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04p/index.m3u8"
-            ]
-        },
-        {
-            "name": "Travel Channel",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a03x/index.m3u8"
-            ]
-        },
-        {
-            "name": "UTV",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05b/index.m3u8"
-            ]
-        },
-        {
-            "name": "UTV HD",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a02b/index.m3u8"
-            ]
-        },
-        {
-            "name": "UTV+1",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a05c/index.m3u8"
-            ]
-        },
-        {
-            "name": "YESTERDAY",
-            "logo": "bbc_news.png",
-            "url": [
-                "http://37.9.56.206:8000/play/a04e/index.m3u8"
-            ]
-        },		
 		{
             "name": "Sky News",
             "logo": "sky_news.png",
@@ -1492,118 +721,6 @@
                 "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
                 "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
             ]
-        },
-	    	{
-            "name": "Catchup iptv",
-            "logo": "f24.jpg",
-            "url": [
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=82&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=83&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=84&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=85&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=86&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=87&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=88&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=89&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=90&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=91&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=92&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=93&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=94&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=95&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=96&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=97&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=98&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=99&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=100&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=101&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=102&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=103&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=104&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=105&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=106&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=107&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=108&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=109&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=110&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=111&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=112&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=113&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=114&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=115&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=116&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=117&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=118&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=119&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=120&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=121&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=122&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=123&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=124&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=125&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=126&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=127&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=128&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=129&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=130&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=131&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=132&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=133&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=134&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=135&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=136&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=137&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=138&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=139&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=140&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=141&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=142&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=143&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=144&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=145&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=146&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=148&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=149&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=150&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=151&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=152&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=153&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=154&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=155&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=156&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=157&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=158&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=159&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=160&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=161&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=162&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=163&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=164&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=165&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=166&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=167&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=168&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=169&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=170&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=171&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=172&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=173&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=174&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=175&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=176&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=178&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=179&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=180&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=181&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=182&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=183&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=184&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=186&profile=2&token=",
-				"http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&profile=2&token=",
-            ]
-        }, 
+        } 
     ]
 }
