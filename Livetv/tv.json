@@ -263,7 +263,8 @@
             "name": "euronews",
             "logo": "f24.jpg",
             "url": [
-				"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8",
+				"http://euronews-en-p11-cdn.hexaglobe.net/032d6b4fc3bb401b5476f30c13cba4ca/5f9c57f3/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8">http://euronews-en-p11-cdn.hexaglobe.net/032d6b4fc3bb401b5476f30c13cba4ca/5f9c57f3/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8",
+		    		"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8",
 		    		"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8",
 				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8",
 				"https://euronews-en-p-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8"
