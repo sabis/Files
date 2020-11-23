@@ -293,7 +293,14 @@
 		    		"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8"
             ]
         },
-		{
+	    			{
+            "name": "euronews es",
+            "logo": "f24.jpg",
+            "url": [
+		    		"https://stream-05.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCawwVJx9nS-gWSQqJS8ZlueQ)/dm/3/x2j7hpf/s/live-0.m3u8"
+            ]
+        },
+	    {
             "name": "francetv",
             "logo": "f24.jpg",
             "url": [
