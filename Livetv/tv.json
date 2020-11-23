@@ -263,7 +263,9 @@
             "name": "euronews fr",
             "logo": "f24.jpg",
             "url": [
-				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/playlist.m3u8",
+				"https://stream-10.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF9Ibjfms4X6Vg0Zpwj360)/dm/3/x2j4lj9/d/live-0.m3u8",
+		    		"https://stream-05.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCawwVJx9nS-gWSQqJS8ZlueQ)/dm/3/x2j7hpf/s/live-0.m3u8",
+		    		"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/playlist.m3u8",
 				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_360p.m3u8",
 				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_480p.m3u8",
 				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_576p.m3u8",
