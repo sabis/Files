@@ -376,7 +376,8 @@
             "name": "France 4",
             "logo": "f24.jpg",
             "url": [
-				"http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test",	
+				"http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test",
+		    		"http://178.132.3.162:88/france4/index.m3u8?token=test",
 		  		"http://hdfauthftv-a.akamaihd.net/esi/TA?url=http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8"	
             ]
         },		{
