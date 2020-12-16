@@ -73,6 +73,13 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
             ]
         },
+	    	{
+            "name": "RMC DECOUVERTE",
+            "logo": "natgeo.jpg",
+            "url": [
+				"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8"
+            ]
+        },
 		{
             "name": "spacetoon",
             "logo": "f24.jpg",
@@ -398,6 +405,7 @@
             "name": "Arte",
             "logo": "f24.jpg",
             "url": [
+		    		"https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_3_av-p.m3u8?sd=10&rebase=on",
 				"https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8",
 				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8",
 		    		"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on",
@@ -405,7 +413,14 @@
 				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_4_av-p.m3u8?sd=10&rebase=on",
 				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_4_av-b.m3u8?sd=10&rebase=on"
             ]
-        },			
+        },
+	    	    {
+            "name": "6ter",
+            "logo": "f24.jpg",
+            "url": [
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/01.m3u8"	
+            ]
+        },
 	    {
             "name": "M6",
             "logo": "f24.jpg",
@@ -553,7 +568,9 @@
             "name": "Boing",
             "logo": "f24.jpg",
             "url": [
-			"http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test"
+			"http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
+		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
+		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"
             ]
         }, 	
 	{
