@@ -346,7 +346,24 @@
 				"http://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8",
 				"http://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
 				"http://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
-				"http://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8"
+				"http://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8",
+				"https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8",
+				"https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8",
+				"https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8",
+				"https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+				"https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8",
+				"https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+				"https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8",
+				"https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8",
+				"http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8",
+				"https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8",
+				"https://tv5pacifiquehls-i.akamaihd.net/hls/live/630173/tv5pacifiquehls/index.m3u8",
+				"https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8",
+				"https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8",
+				"https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8",
+				"https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8",
+				"https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+				"https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8"
             ]
 		},
 		{
@@ -406,8 +423,8 @@
             "name": "Arte",
             "logo": "f24.jpg",
             "url": [
-		    		"https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_3_av-p.m3u8?sd=10&rebase=on",
 		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8",
+		    		"https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_3_av-p.m3u8?sd=10&rebase=on",
 				"https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8",
 				"https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8",
 		    		"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on",
@@ -420,7 +437,11 @@
             "name": "6ter",
             "logo": "f24.jpg",
             "url": [
-		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/01.m3u8"	
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/04.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8"
             ]
         },
 	    {
@@ -428,14 +449,15 @@
             "logo": "f24.jpg",
             "url": [
 			"http://flusonic-4.platinum-tv.com/M6/index.m3u8?token=test",
-		    	"http://176.10.117.3:5000/play/a02x"	
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8"	
             ]
         },		
  	    {
             "name": "W9",
             "logo": "f24.jpg",
             "url": [
-			"http://flusonic-4.platinum-tv.com/W9/index.m3u8?token=test"
+			"http://flusonic-4.platinum-tv.com/W9/index.m3u8?token=test",
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8"
             ]
         },	  
 	{
@@ -522,6 +544,14 @@
 				"http://190.2.138.13:8080/TMC/index.m3u8?token=test"
             ]
         }, 
+	    {
+
+            "name": "Teva",
+            "logo": "f24.jpg",
+            "url": [
+				"http://190.2.138.13/Teva/index.m3u8?token=test"
+            ]
+        }, 
 	{
             "name": "C Star",
             "logo": "f24.jpg",
@@ -548,7 +578,26 @@
             "name": "Equipe 21",
             "logo": "f24.jpg",
             "url": [
-				"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8"
+            ]
+        }, 
+	       {
+            "name": "NRJ Hits",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
+            ]
+        },     	    	{
+            "name": "RTL9",
+            "logo": "f24.jpg",
+            "url": [
+			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/03.m3u8",	
+		 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8"
             ]
         }, 
 	{
@@ -580,7 +629,8 @@
             "url": [
 			"http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
 		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
-		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"
+		    	"http://178.132.3.162:88/boing/index.m3u8?token=test",
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8"
             ]
         }, 	
 	{
@@ -597,15 +647,23 @@
 				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8",
 				"http://144.217.253.140/Canalj/index.m3u8"
             ]
-        }, 			
-	{
-
-            "name": "Teva",
+        }, 
+	    	{
+            "name": "Boomerang",
             "logo": "f24.jpg",
             "url": [
-				"http://190.2.138.13/Teva/index.m3u8?token=test"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/04.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
             ]
-        },    
+        },
+	   {         "name": "Animaux",
+            "logo": "f24.jpg",
+            "url": [
+	 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8"
+            ]
+        },
 	{         "name": "andflixhd",
             "logo": "f24.jpg",
             "url": [
