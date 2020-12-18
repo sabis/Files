@@ -503,6 +503,8 @@
             "logo": "f24.jpg",
             "url": [
 				"http://flusonic-4.platinum-tv.com/france2/index.m3u8?token=test",
+		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8",
+		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/06.m3u8",
 		    		"https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1a35f27d9962f3c6bf29c0c798c9bb3801264b8cd008b452f60b478020449f65544e9986abf66b73f5182250e66640b857308b96838a5c222971cf190ca9f83261e957765949b4ec1c87cc3d8ff5347c6bc0375ffbc294867db5dd0cbdf556024d1d6284b8a1c56679178cc2d8a84393dd344912ed9fc69b218852ddf447cae408fdffc2f4541c9eb503fb850b39ce4e",
 		    		"https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8",			    
 		    		"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
@@ -752,6 +754,13 @@
             "logo": "f24.jpg",
             "url": [
 				"https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "ArtPla TV",
+            "logo": "f24.jpg",
+            "url": [
+				"http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8"
             ]
         }, 
 	    	{
