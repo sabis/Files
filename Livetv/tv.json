@@ -44,20 +44,19 @@
             "name": "Aljazeera English",
             "logo": "aljazeera.jpg",
             "url": [
-                "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",                
-                "https://live-hls-web-aje.getaj.net/AJE/05.m3u8",
-                "https://live-hls-web-aje.getaj.net/AJE/04.m3u8",
-                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"				
+                "https://live-hls-web-aje.getaj.net/AJE/04.m3u8",                
+                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+                "https://live-hls-web-aje.getaj.net/AJE/02.m3u8",
+                "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"				
             ]
         },
 	{
             "name": "Aljazeera Doc",
             "logo": "aljazeera_doc.jpg",
             "url": [
-		"https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
-                "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
                 "https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8"
             ]
