@@ -833,10 +833,18 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
             ]
         },
-	{         "name": "andflixhd",
+	    	{         "name": "Andprive hd",
             "logo": "f24.jpg",
             "url": [
-				"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"
+				"https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
+            ]
+        },
+	{         "name": "andflix hd",
+            "logo": "f24.jpg",
+            "url": [
+				"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+		    "http://103.214.202.218:8081/live/andflix-29/chunks.m3u8",
+		    "http://103.214.202.218:8081/live/andflix-29/playlist.m3u8"
             ]
         },
 	{
