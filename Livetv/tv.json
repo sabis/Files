@@ -553,14 +553,14 @@
 				"https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8"	
             ]
         },
-	            },	{
+	           {
             "name": "RT France",
             "logo": "f24.jpg",
             "url": [
 				"http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8"
             ]
         },
-	            },	{
+	            {
             "name": "CGTN Français",
             "logo": "f24.jpg",
             "url": [
