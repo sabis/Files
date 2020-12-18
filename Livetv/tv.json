@@ -746,7 +746,9 @@
             "name": "Mycomedy",
             "logo": "f24.jpg",
             "url": [
-				"http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
+			"http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8",
+		    "http://live.creacast.com/mycomedy/smil:mycomedy.smil/index.m3u8",
+		    "http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
             ]
         }, 	
 	{
