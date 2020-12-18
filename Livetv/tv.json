@@ -80,6 +80,13 @@
 				"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8"
             ]
         },
+	      {         
+	   "name": "Animaux",
+            "logo": "f24.jpg",
+            "url": [
+	 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8"
+            ]
+        },
 		{
             "name": "spacetoon",
             "logo": "f24.jpg",
@@ -545,7 +552,21 @@
             "url": [
 				"https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8"	
             ]
-        },		
+        },
+	            },	{
+            "name": "RT France",
+            "logo": "f24.jpg",
+            "url": [
+				"http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8"
+            ]
+        },
+	            },	{
+            "name": "CGTN Français",
+            "logo": "f24.jpg",
+            "url": [
+				"https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"
+            ]
+        },
 	    {
             "name": "Arte",
             "logo": "f24.jpg",
@@ -623,7 +644,15 @@
 				"http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on",
 				"https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
             ]
-        }, {
+        },
+	    	{
+            "name": "BFM Business",
+            "logo": "f24.jpg",
+            "url": [
+				"https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on"	  
+            ]
+        },
+	    {
             "name": "ln24",
             "logo": "f24.jpg",
             "url": [
@@ -709,6 +738,22 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8"
             ]
         }, 
+	    	    	{
+            "name": "Cherie25",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/03.m3u8"
+            ]
+        }, 
+	    	    	    	{
+            "name": "NRJ 12",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/03.m3u8"
+            ]
+        }, 
 	       {
             "name": "NRJ Hits",
             "logo": "f24.jpg",
@@ -732,6 +777,9 @@
             "logo": "f24.jpg",
             "url": [
 			"http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
             ]
@@ -783,12 +831,6 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/03.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/02.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
-            ]
-        },
-	   {         "name": "Animaux",
-            "logo": "f24.jpg",
-            "url": [
-	 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8"
             ]
         },
 	{         "name": "andflixhd",
