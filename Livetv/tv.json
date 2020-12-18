@@ -552,6 +552,64 @@
 				"https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8"	
             ]
         },
+	    	{
+            "name": "Cnews",
+            "logo": "f24.jpg",
+            "url": [
+			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
+			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
+			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/stream-1-1607893082.ts",
+			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-1.m3u8",
+			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-2.m3u8"
+            ]
+        },
+ 	    {		
+	    "name": "LCI",
+            "logo": "f24.jpg",
+            "url": [
+				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+		    		"http://178.132.3.162:88/LCI/index.m3u8?token=test",
+		    		"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8",
+		    		"http://190.2.138.13/LCI/index.m3u8?token=test"
+            ]
+        }, 
+	{
+            "name": "BFM",
+            "logo": "f24.jpg",
+            "url": [
+				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
+		    		"http://190.2.138.13/BFM/index.m3u8?token=test"	  
+            ]
+        }, 
+	{
+            "name": "BFM Paris",
+            "logo": "f24.jpg",
+            "url": [
+				"http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on",
+				"https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
+            ]
+        },
+	    	{
+            "name": "BFM Business",
+            "logo": "f24.jpg",
+            "url": [
+				"https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on"	  
+            ]
+        },
+	    {
+            "name": "ln24",
+            "logo": "f24.jpg",
+            "url": [
+				"https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"	
+            ]
+        }, 
+	{
+            "name": "ICI RDI Canada",
+            "logo": "f24.jpg",
+            "url": [
+				"https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"	
+            ]
+        },
 	           {
             "name": "RT France",
             "logo": "f24.jpg",
@@ -714,65 +772,7 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/01.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
             ]
-        }, 	  
-	{
-            "name": "Cnews",
-            "logo": "f24.jpg",
-            "url": [
-			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
-			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
-			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/stream-1-1607893082.ts",
-			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-1.m3u8",
-			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-2.m3u8"
-            ]
-        },
- 	    {		
-	    "name": "LCI",
-            "logo": "f24.jpg",
-            "url": [
-				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
-		    		"http://178.132.3.162:88/LCI/index.m3u8?token=test",
-		    		"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8",
-		    		"http://190.2.138.13/LCI/index.m3u8?token=test"
-            ]
-        }, 
-	{
-            "name": "BFM",
-            "logo": "f24.jpg",
-            "url": [
-				"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
-		    		"http://190.2.138.13/BFM/index.m3u8?token=test"	  
-            ]
-        }, 
-	{
-            "name": "BFM Paris",
-            "logo": "f24.jpg",
-            "url": [
-				"http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on",
-				"https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
-            ]
-        },
-	    	{
-            "name": "BFM Business",
-            "logo": "f24.jpg",
-            "url": [
-				"https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on"	  
-            ]
-        },
-	    {
-            "name": "ln24",
-            "logo": "f24.jpg",
-            "url": [
-				"https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"	
-            ]
-        }, 
-	{
-            "name": "ICI RDI Canada",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"	
-            ]
-        }, 
+        }, 	   
 	{
             "name": "Gulli",
             "logo": "f24.jpg",
