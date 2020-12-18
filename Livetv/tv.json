@@ -580,7 +580,42 @@
 				"https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_4_av-b.m3u8?sd=10&rebase=on"
             ]
         },
-	    	    {
+	    	{          
+		"name": "TF1 Séries Films",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
+            ]
+        }, 
+	{
+            "name": "TF1",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
+				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8",
+		    		"http://190.2.138.13/BFM/index.m3u8?token=test"
+				"http://176.10.117.3:5000/play/a02v"
+            ]
+        }, 
+	{
+            "name": "TFX",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
+                                "https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_1828.m3u8",
+                                "http://ios-q1-ssl.tf1.fr/2/USP-0x0/08/33/13640833/ssm/13640833.ism/13640833-audio=128000-video=2500566.m3u8"
+            ]
+        }, 
+	{
+            "name": "TMC",
+            "logo": "f24.jpg",
+            "url": [
+				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
+		  		"http://190.2.138.13/TMC/index.m3u8?token=test",
+				"http://190.2.138.13:8080/TMC/index.m3u8?token=test"
+            ]
+        }, 
+	    	    	    {
             "name": "6ter",
             "logo": "f24.jpg",
             "url": [
@@ -606,7 +641,80 @@
 			"http://flusonic-4.platinum-tv.com/W9/index.m3u8?token=test",
 		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8"
             ]
-        },	  
+        },
+	       {
+            "name": "RTL9",
+            "logo": "f24.jpg",
+            "url": [
+			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/03.m3u8",	
+		 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "NRJ 12",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/03.m3u8"
+            ]
+        }, 
+	    	    {
+            "name": "Cherie25",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/03.m3u8"
+            ]
+        }, 
+	    {
+
+            "name": "Teva",
+            "logo": "f24.jpg",
+            "url": [
+				"http://190.2.138.13/Teva/index.m3u8?token=test"
+            ]
+        }, 
+	{
+            "name": "C Star",
+            "logo": "f24.jpg",
+            "url": [
+				"http://144.217.253.140/Cstar/index.m3u8",
+				"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8"
+            ]
+        },
+	{
+            "name": "Mycomedy",
+            "logo": "f24.jpg",
+            "url": [
+				"http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
+            ]
+        }, 	
+	{
+            "name": "D5TV",
+            "logo": "f24.jpg",
+            "url": [
+				"https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "Equipe 21",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8"
+            ]
+        }, 
+	       {
+            "name": "NRJ Hits",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
+            ]
+        }, 	  
 	{
             "name": "Cnews",
             "logo": "f24.jpg",
@@ -663,112 +771,6 @@
             "logo": "f24.jpg",
             "url": [
 				"https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"	
-            ]
-        }, 
-	{          "name": "TF1 Séries Films",
-            "logo": "f24.jpg",
-            "url": [
-				"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
-            ]
-        }, 
-	{
-            "name": "TF1",
-            "logo": "f24.jpg",
-            "url": [
-				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
-				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8",
-		    		"http://190.2.138.13/BFM/index.m3u8?token=test"
-				"http://176.10.117.3:5000/play/a02v"
-            ]
-        }, 
-	{
-            "name": "TFX",
-            "logo": "f24.jpg",
-            "url": [
-				"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
-                                "https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_1828.m3u8",
-                                "http://ios-q1-ssl.tf1.fr/2/USP-0x0/08/33/13640833/ssm/13640833.ism/13640833-audio=128000-video=2500566.m3u8"
-            ]
-        }, 
-	{
-            "name": "TMC",
-            "logo": "f24.jpg",
-            "url": [
-				"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
-		  		"http://190.2.138.13/TMC/index.m3u8?token=test",
-				"http://190.2.138.13:8080/TMC/index.m3u8?token=test"
-            ]
-        }, 
-	    {
-
-            "name": "Teva",
-            "logo": "f24.jpg",
-            "url": [
-				"http://190.2.138.13/Teva/index.m3u8?token=test"
-            ]
-        }, 
-	{
-            "name": "C Star",
-            "logo": "f24.jpg",
-            "url": [
-				"http://144.217.253.140/Cstar/index.m3u8",
-				"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8"
-            ]
-        },
-	{
-            "name": "Mycomedy",
-            "logo": "f24.jpg",
-            "url": [
-				"http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
-            ]
-        }, 	
-	{
-            "name": "D5TV",
-            "logo": "f24.jpg",
-            "url": [
-				"https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8"
-            ]
-        }, 
-	    	{
-            "name": "Equipe 21",
-            "logo": "f24.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8"
-            ]
-        }, 
-	    	    	{
-            "name": "Cherie25",
-            "logo": "f24.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/03.m3u8"
-            ]
-        }, 
-	    	    	    	{
-            "name": "NRJ 12",
-            "logo": "f24.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/03.m3u8"
-            ]
-        }, 
-	       {
-            "name": "NRJ Hits",
-            "logo": "f24.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/03.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/01.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
-            ]
-        },     	    	{
-            "name": "RTL9",
-            "logo": "f24.jpg",
-            "url": [
-			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/03.m3u8",	
-		 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8"
             ]
         }, 
 	{
