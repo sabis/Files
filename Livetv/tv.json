@@ -775,10 +775,10 @@
             "name": "Gulli",
             "logo": "f24.jpg",
             "url": [
-			"http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/01.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/03.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
+		    "http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
             ]
@@ -801,10 +801,10 @@
             "name": "Boing",
             "logo": "f24.jpg",
             "url": [
-			"http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
+			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8",
+		    "http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
 		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
-		    	"http://178.132.3.162:88/boing/index.m3u8?token=test",
-		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8"
+		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"		 
             ]
         }, 	
 	{
@@ -829,7 +829,8 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/04.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/03.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/index.m3u8"
             ]
         },
 	    	{         "name": "Andprive hd",
@@ -841,7 +842,7 @@
 	{         "name": "andflix hd",
             "logo": "f24.jpg",
             "url": [
-				"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+		    "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
 		    "http://103.214.202.218:8081/live/andflix-29/chunks.m3u8",
 		    "http://103.214.202.218:8081/live/andflix-29/playlist.m3u8"
             ]
