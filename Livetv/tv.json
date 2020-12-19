@@ -197,24 +197,25 @@
 		{
 			  "name":"Assadissa",
 			  "logo": "snrt-6.jpg",
-              "url": [
-       	 "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Assadissa/hls_snrt/index.m3u8",
-         "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
+              "url": [       	 
+         "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+		      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Assadissa/hls_snrt/index.m3u8"
             ]  
 		},
 		{
 			  "name":"Arrabiaa",
 			  "logo": "snrt-4.jpg",
-              "url": [
-       "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-		      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+              "url": [       
+		      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+		      "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
              ] 
 		},
 		{
 			"name":"Tamazight",
 			"logo": "snrt-7.jpg",
-            "url": [
-       "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"                   
+            "url": [       			
+		    "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+		    "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
              ] 
 		},
 		{
