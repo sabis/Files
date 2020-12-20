@@ -6,7 +6,9 @@
             "url": [
                 "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8",
 				"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8",
-				"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_97200=2.m3u8"
+				"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_97200=2.m3u8",
+		    		"http://m.live.net.sa:1935/live/quran/index.m3u8",
+		    		"http://m.live.net.sa:1935/live/quran/chunklist.m3u8"
             ]
         },
         {
@@ -16,6 +18,31 @@
                 "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_250000=3-mp4a_97200=2.m3u8",
 				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8",
 				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8"
+            ]
+        },
+	{
+            "name": "Makkah tv",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist.m3u8",
+				"https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
+				"https://5ab29cc78f681.streamlock.net/makkahtv/livestream/index.m3u8"
+            ]
+        },
+	    	{
+            "name": "Alerth nabawi",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "http://82.212.74.2:8000/live/hls/7307.m3u8"
+            ]
+        },
+	    	    	{
+            "name": "Ahel quran",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8",
+		    "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8",
+		    "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/index.m3u8"
             ]
         },
         {
@@ -79,7 +106,8 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/03.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/01.m3u8"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/01.m3u8",
+		    "https://gitlab.com/2528176/tv/-/raw/master/Rmc_Decouverte.m3u8"
             ]
         },
 	      {         
@@ -106,7 +134,10 @@
             "logo": "f24.jpg",
             "url": [
 				"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_8.m3u8",
-		    "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8"
+		    "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8",
+			"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8",
+			"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8"
+
 	    ]
         },  
 		{
@@ -119,7 +150,8 @@
             "name": "Rotana kids",
             "logo": "f24.jpg",
             "url": [
-				"https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8"
+				"https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8",
+		    		"https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/playlist.m3u8"
 	    ]
         },
         {
@@ -286,7 +318,8 @@
             "url": [
                 "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_9.m3u8",
 		    "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_8.m3u8",
-		    "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_7.m3u8"
+		    "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_7.m3u8",
+		    "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8"
             ]
         },
 	    	    		{
@@ -574,6 +607,7 @@
             "url": [
 			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
 			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
+		    	"https://stream-04.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gUUEruLlAmKr5doI6Za3sos)/dm/3/x3b68jn/d/live-3.m3u8",
 			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/stream-1-1607893082.ts",
 			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-1.m3u8",
 			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-2.m3u8"
@@ -697,15 +731,17 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/02.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/03.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/04.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8",
+		    "https://gitlab.com/2528176/tv/-/raw/master/6ter.m3u8"
             ]
         },
 	    {
             "name": "M6",
             "logo": "f24.jpg",
             "url": [
+		        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8",
 			"http://flusonic-4.platinum-tv.com/M6/index.m3u8?token=test",
-		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8"	
+		    	"https://gitlab.com/2528176/tv/-/raw/master/M6.m3u8"
             ]
         },		
  	    {
@@ -713,7 +749,8 @@
             "logo": "f24.jpg",
             "url": [
 			"http://flusonic-4.platinum-tv.com/W9/index.m3u8?token=test",
-		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8"
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8",
+		    	"https://gitlab.com/2528176/tv/-/raw/master/W9.m3u8"
             ]
         },
 	       {
@@ -721,9 +758,38 @@
             "logo": "f24.jpg",
             "url": [
 			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/03.m3u8",	
-		 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8"
+		 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8",		    
+		    	"https://gitlab.com/2528176/tv/-/raw/master/RTL9.m3u8"
             ]
         }, 
+	       {
+            "name": "RMC Story",
+            "logo": "f24.jpg",
+            "url": [
+			"https://gitlab.com/2528176/tv/-/raw/master/RMC%20Story.m3u8",	
+		 	"https://stream-11.dc3.dailymotion.com/sec(NHNrmhE_a5oYnthlz8G60szWAWfD_gcN-cOS9yzQlNM)/dm/3/x13p3qi/s/live-3.m3u8"
+            ]
+        }, 
+	     	    {
+            "name": "C8",
+            "logo": "f24.jpg",
+            "url": [
+			"https://gitlab.com/2528176/tv/-/raw/master/c8.m3u8",
+		    	"https://stream-11.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgON9uJPvWrifF03Wixe1nghXe2HVel78_DGLDG9fTAwVJ)/p/dm/3/x5gv5rr/d/live-3.m3u8",
+		    	"https://stream-11.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgON9uJPvWrifF03Wixe1nghXe2HVel78_DGLDG9fTAwVJ)/p/dm/3/x5gv5rr/d/live-2.m3u8"
+            ]
+        },
+	  	     	    {
+            "name": "CStar",
+            "logo": "f24.jpg",
+            "url": [
+			"https://gitlab.com/2528176/tv/-/raw/master/cstar.m3u8",
+		    	"http://144.217.253.140/Cstar/index.m3u8",
+			"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8",
+		    	"https://stream-06.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOP2N1E2-C4aXQZjkhjPnEznyQYYBgA9KqZeJaH6L_13F)/p/dm/3/x5gv5v0/d/live-3.m3u8",
+		    	"https://stream-06.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOP2N1E2-C4aXQZjkhjPnEznyQYYBgA9KqZeJaH6L_13F)/p/dm/3/x5gv5v0/d/live-2.m3u8"
+            ]
+        },  
 	    	{
             "name": "NRJ 12",
             "logo": "f24.jpg",
@@ -749,11 +815,12 @@
             ]
         }, 
 	{
-            "name": "C Star",
+            "name": "01 TV",
             "logo": "f24.jpg",
             "url": [
-				"http://144.217.253.140/Cstar/index.m3u8",
-				"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8"
+				"https://gitlab.com/2528176/tv/-/raw/master/01TV.m3u8",
+				"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-3.m3u8",
+		    		"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-2.m3u8"
             ]
         },
 	{
@@ -761,6 +828,7 @@
             "logo": "f24.jpg",
             "url": [
 			"http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8",
+		    	"http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8",
 		    "http://live.creacast.com/mycomedy/smil:mycomedy.smil/index.m3u8",
 		    "http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
             ]
@@ -784,7 +852,8 @@
             "logo": "f24.jpg",
             "url": [
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8"
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/03.m3u8",
+		    "https://gitlab.com/2528176/tv/-/raw/master/lequipe.m3u8"
             ]
         }, 
 	       {
@@ -860,7 +929,8 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/index.m3u8"
             ]
         },
-	    	{         "name": "Andprive hd",
+	    	{         
+		"name": "Andprive hd",
             "logo": "f24.jpg",
             "url": [
 				"https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
