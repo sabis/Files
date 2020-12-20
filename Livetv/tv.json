@@ -605,9 +605,9 @@
             "name": "Cnews",
             "logo": "f24.jpg",
             "url": [
-			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
-			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
-		    	"https://stream-04.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gUUEruLlAmKr5doI6Za3sos)/dm/3/x3b68jn/d/live-3.m3u8",
+			"https://stream-04.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gUUEruLlAmKr5doI6Za3sos)/dm/3/x3b68jn/d/live-3.m3u8",
+		    "https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",
+			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/live-1.m3u8",		    	
 			"https://stream-12.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gTkFZJ91RfnIkAMFrJX3NEY)/dm/3/x3b68jn/d/stream-1-1607893082.ts",
 			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-1.m3u8",
 			"https://stream-07.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOASMYJ48S1t-sh6pHu3KlSJtBLg0Vux2yQJ9p9SHCpdz)/p/dm/3/x5idxxp/d/live-2.m3u8"
