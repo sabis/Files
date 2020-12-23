@@ -15,6 +15,7 @@
             "name": "Sunna",
             "logo": "aljazeera.jpg",
             "url": [
+		    "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8",
                 "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_250000=3-mp4a_97200=2.m3u8",
 				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8",
 				"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8"
@@ -28,12 +29,32 @@
 				"https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
 				"https://5ab29cc78f681.streamlock.net/makkahtv/livestream/index.m3u8"
             ]
-        },
+        },	  
 	    	{
-            "name": "Alerth nabawi",
+            "name": "Iqraa tv",
             "logo": "aljazeera.jpg",
             "url": [
-                "http://82.212.74.2:8000/live/hls/7307.m3u8"
+                "http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8",
+				"http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?2177918685",
+				"http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8"
+            ]
+        },
+	    	    	{
+            "name": "Iqraa tv Europe",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist.m3u8",
+				"https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
+				"http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8"
+            ]
+        },
+	    	    	    	{
+            "name": "Ressalah tv",
+            "logo": "aljazeera.jpg",
+            "url": [                
+				"https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8",
+		    		"https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_720p/chunks.m3u8",
+		    		"https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_360p/chunks.m3u8"
             ]
         },
 	    	    	{
@@ -43,6 +64,13 @@
                 "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8",
 		    "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8",
 		    "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/index.m3u8"
+            ]
+        },
+	    	    	{
+            "name": "Alerth nabawi",
+            "logo": "aljazeera.jpg",
+            "url": [
+                "http://82.212.74.2:8000/live/hls/7307.m3u8"
             ]
         },
         {
