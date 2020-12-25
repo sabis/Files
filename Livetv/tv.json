@@ -161,7 +161,10 @@
             "url": [
 				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w26703453_b1296000_slAR.m3u8",
 				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8",
-				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+				"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+		    		"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+		    		"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8"
+
             ]
         }, 
 	    		{
