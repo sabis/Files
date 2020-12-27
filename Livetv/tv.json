@@ -84,10 +84,14 @@
             "name": "Aljazeera",
             "logo": "aljazeera.jpg",
             "url": [
+		"https://live-hls-web-aja.getaj.net/AJA/04.m3u8",
+                "https://live-hls-web-aja.getaj.net/AJA/03.m3u8",
+                "https://live-hls-web-aja.getaj.net/AJA/02.m3u8",
+                "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/04.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/03.m3u8",
                 "http://live-hls-web-aja.getaj.net/AJA/02.m3u8",
-                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",
+                "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",		    
                 "http://edge-1192-ch-gv.filmon.com/live/3035.high.stream/playlist.m3u8"
             ]
         },
@@ -95,7 +99,11 @@
             "name": "Aljazeera Mubasher",
             "logo": "aljazeera_mubasher.jpg",
             "url": [
-                "http://live-hls-web-ajm.getaj.net/AJM/04.m3u8",                
+		"https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",                
+                "https://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
+                "https://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
+                "https://live-hls-web-ajm.getaj.net/AJM/01.m3u8",
+		"http://live-hls-web-ajm.getaj.net/AJM/04.m3u8",                
                 "http://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
                 "http://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
                 "http://live-hls-web-ajm.getaj.net/AJM/01.m3u8",
@@ -117,6 +125,10 @@
             "logo": "aljazeera_doc.jpg",
             "url": [
                 "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
+                "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
+		"https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
                 "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
