@@ -489,6 +489,15 @@
 		    "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8"
             ]
         },
+	    		{
+            "name": "AlFajer 2",
+            "logo": "f24.jpg",
+            "url": [
+				"http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8",
+               			"http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8",
+				"http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8"
+            ]
+        },	
 		{
             "name": "f24ar",
             "logo": "f24.jpg",
