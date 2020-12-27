@@ -51,7 +51,7 @@
             ]
         },
 	    	    	    	{
-            "name": "Ressalah tv",
+            "name": "Resalah tv",
             "logo": "aljazeera.jpg",
             "url": [                
 				"https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8",
@@ -339,9 +339,12 @@
 		{
 			  "name":"Assadissa",
 			  "logo": "snrt-6.jpg",
-              "url": [       	 
-         "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
-		      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Assadissa/hls_snrt/index.m3u8"
+              "url": [  
+		      "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+		      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Assadissa/hls_snrt/index.m3u8",
+		      "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Assadissa/hls_snrt/index.m3u8",
+		      "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+		      
             ]  
 		},
 		{
