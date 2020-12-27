@@ -183,7 +183,8 @@
             "name": "CN Arabia",
             "logo": "f24.jpg",
             "url": [
-				"http://192.34.153.37:7777/CNArabia_HD/CNArabia_High.m3u8?user=sgls540839&session=0f98a7012611e82cff1f7e09f8520c48ada06873355ffe47b37411c2582235039817224ea3922e90de2a9a15d4e21705&hlsid=HTTP_ID_4",
+			"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",	
+		    "http://192.34.153.37:7777/CNArabia_HD/CNArabia_High.m3u8?user=sgls540839&session=0f98a7012611e82cff1f7e09f8520c48ada06873355ffe47b37411c2582235039817224ea3922e90de2a9a15d4e21705&hlsid=HTTP_ID_4",
 		    		"http://192.34.153.37:7777/CNArabia_HD/CNArabia_High.m3u8?user=sgls540839&session=0f98a7012611e82cff1f7e09f8520c48ada06873355ffe47b37411c2582235039817224ea3922e90de2a9a15d4e21705&hlsid=HTTP_ID_4&starttime=20200717T070353.801888"
 
             ]
