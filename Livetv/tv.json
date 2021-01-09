@@ -1165,7 +1165,7 @@
 				"https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8"	
             ]
         },
-	 	{
+	{
             "name": "create&craft",
             "logo": "f24.jpg",
             "url": [
@@ -1193,7 +1193,7 @@
 				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8"
 	    ]
         },
-	    	  	    	    	{
+			  	    	    	{
             "name": "Filmrise Movies",
             "logo": "f24.jpg",
             "url": [
@@ -1314,7 +1314,7 @@
         },
 			  	    	    	{
             "name": "Movies Kingdom",
-            "logo": "f24.jpg",
+            "logo": "f24.jpg
             "url": [
 				"https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"
             ]
@@ -1360,7 +1360,7 @@
             "url": [
 				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
             ]
-        },   
+        },	    
 	   {
             "name": "BBC News",
             "logo": "bbc_news.png",
