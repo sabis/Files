@@ -1192,6 +1192,7 @@
 				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8"
 	    ]
         },
+	    			{
             "name": "Filmrise Movies",
             "logo": "f24.jpg",
             "url": [
@@ -1268,14 +1269,14 @@
 				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
             ]
         },
-	 	  	    	    	{
+	 	    	    	{
             "name": "Flim Hub",
             "logo": "f24.jpg",
             "url": [
 				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8"
             ]
         },
-			  	    	    	{
+		    	    	{
             "name": "HBO Family",
             "logo": "f24.jpg",
             "url": [
