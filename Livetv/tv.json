@@ -150,8 +150,56 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
             ]
-        },  
-	  	      {         
+        }, 
+	    	    	    {
+            "name": "LA UNE BELGIQUE",
+            "logo": "f24.jpg",
+            "url": [
+				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8",
+		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8"
+            ]
+		},
+	    	    {
+            "name": "LA DEUX BELGIQUE",
+            "logo": "f24.jpg",
+            "url": [
+				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8",
+		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8"
+            ]
+		},
+	    {
+            "name": "LA TROIS BELGIQUE",
+            "logo": "f24.jpg",
+            "url": [
+				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8",
+		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8"
+		    
+            ]
+		},
+	        {
+            "name": "RMC DECOUVERTE",
+            "logo": "natgeo.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/01.m3u8",
+		    "https://gitlab.com/2528176/tv/-/raw/master/Rmc_Decouverte.m3u8"
+            ]
+        },
+	      {         
+	   "name": "Animaux",
+            "logo": "f24.jpg",
+            "url": [
+		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8",
+	 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/01.m3u8"
+            ]
+        },
+	        {         
 	   "name": "RT Doc",
             "logo": "f24.jpg",
             "url": [
@@ -180,6 +228,13 @@
 	 	"https://live.cgtn.com/1000/prog_index.m3u8"
             ]
         },  
+	    	    {         
+	   "name": "FURG TV",
+            "logo": "f24.jpg",
+            "url": [
+	 	"https://stream.furg.br/hls/furgtv.m3u8"
+            ]
+        }, 
 	    {         
 	   "name": "YTN SCIENCE KR",
             "logo": "f24.jpg",
@@ -199,28 +254,6 @@
             "logo": "f24.jpg",
             "url": [
 	 	"http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8"
-            ]
-        },{
-            "name": "RMC DECOUVERTE",
-            "logo": "natgeo.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/03.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/01.m3u8",
-		    "https://gitlab.com/2528176/tv/-/raw/master/Rmc_Decouverte.m3u8"
-            ]
-        },
-	      {         
-	   "name": "Animaux",
-            "logo": "f24.jpg",
-            "url": [
-		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8",
-	 	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/03.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/01.m3u8"
             ]
         },
 		{
@@ -271,6 +304,116 @@
 		    		"https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/playlist.m3u8"
 	    ]
         },
+	    	{
+            "name": "Gulli",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/01.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/03.m3u8",
+
+		    "http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
+		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
+		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
+            ]
+        }, 		
+	{
+            "name": "Piwi",
+            "logo": "f24.jpg",
+            "url": [
+		    	"http://178.132.3.162:88/Piwi/video.m3u8?token=test",
+			"http://flusonic-4.platinum-tv.com/Piwi/index.m3u8?token=test"
+            ]
+        }, 
+	{
+            "name": "Tiji",
+            "logo": "f24.jpg",
+            "url": [
+		    	"http://178.132.3.162:88/Tiji/video.m3u8?token=test",
+			"http://flusonic-4.platinum-tv.com/Tiji/index.m3u8?token=test"
+            ]
+        }, 	    
+	    {
+            "name": "Boing",
+            "logo": "f24.jpg",
+            "url": [
+			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8",
+		    "http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
+		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
+		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"		 
+            ]
+        }, 	
+	{
+            "name": "teletoon+",
+            "logo": "f24.jpg",
+            "url": [
+				"http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8"
+            ]
+        }, 			
+	{
+            "name": "Canal J",
+            "logo": "f24.jpg",
+            "url": [
+		    		"http://178.132.3.162:88/CanalJ/video.m3u8?token=test",
+				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8",
+				"http://144.217.253.140/Canalj/index.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "Boomerang",
+            "logo": "f24.jpg",
+            "url": [
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/04.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/03.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/02.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
+
+            ]
+        },
+	    	{
+            "name": "Akaram Kidz",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "Battery Pop",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "Cartoon Network",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "http://178.132.3.162:88/cartoon_network/index.m3u8?token=test"
+            ]
+        }, 
+	    	{
+            "name": "PBS Kids",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR"
+            ]
+        }, 
+	    	{
+            "name": "TRT Cocuk",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
+            ]
+        }, 
+	    	{
+            "name": "tvo KIDS",
+            "logo": "f24.jpg",
+            "url": [		    
+		    "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8"
+            ]
+        }, 
  {
             "name": "M24",
             "logo": "mapnews_tv.jpg",
@@ -637,31 +780,6 @@
 		    "https://stream-05.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCawwVJx9nS-gWSQqJS8ZlueQ)/dm/3/x2j7hpf/s/live-3.m3u8",
             ]
         },
-	    	    {
-            "name": "LA UNE BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8"
-            ]
-		},
-	    	    {
-            "name": "LA DEUX BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8"
-            ]
-		},
-	    {
-            "name": "LA TROIS BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8"
-		    
-            ]
-		},
 		{
             "name": "TV5",
             "logo": "f24.jpg",
@@ -761,7 +879,7 @@
             "logo": "f24.jpg",
             "url": [
 				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
-		    		"http://178.132.3.162:88/LCI/index.m3u8?token=test",
+		    		"http://178.132.3.162:88/TF1/video.m3u8?token=test",
 		    		"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8",
 		    		"http://190.2.138.13/LCI/index.m3u8?token=test"
             ]
@@ -906,7 +1024,13 @@
 		    	"https://gitlab.com/2528176/tv/-/raw/master/RTL9.m3u8"
             ]
         }, 
-	       {
+		       {
+            "name": "AB1",
+            "logo": "f24.jpg",
+            "url": [	  
+		    	"http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8"
+            ]
+        },        {
             "name": "RMC Story",
             "logo": "f24.jpg",
             "url": [
@@ -1011,71 +1135,6 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
             ]
         }, 	   
-	{
-            "name": "Gulli",
-            "logo": "f24.jpg",
-            "url": [		    
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/01.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/03.m3u8",
-
-		    "http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
-		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
-		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
-            ]
-        }, 		
-	{
-            "name": "Piwi",
-            "logo": "f24.jpg",
-            "url": [
-			"http://flusonic-4.platinum-tv.com/Piwi/index.m3u8?token=test"
-            ]
-        }, 
-	{
-            "name": "Tiji",
-            "logo": "f24.jpg",
-            "url": [
-			"http://flusonic-4.platinum-tv.com/Tiji/index.m3u8?token=test"
-            ]
-        }, 	    
-	    {
-            "name": "Boing",
-            "logo": "f24.jpg",
-            "url": [
-			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8",
-		    "http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
-		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
-		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"		 
-            ]
-        }, 	
-	{
-            "name": "teletoon+",
-            "logo": "f24.jpg",
-            "url": [
-				"http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8"
-            ]
-        }, 			
-	{
-            "name": "Canal J",
-            "logo": "f24.jpg",
-            "url": [
-				"http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8",
-				"http://144.217.253.140/Canalj/index.m3u8"
-            ]
-        }, 
-	    	{
-            "name": "Boomerang",
-            "logo": "f24.jpg",
-            "url": [
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/04.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/03.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/02.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
-
-            ]
-        },
 	    	{         
 		"name": "Andprive hd",
             "logo": "f24.jpg",
@@ -1111,7 +1170,195 @@
             "url": [
 				"https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8"	
             ]
+        },  
+	    	{
+            "name": "Cinemax",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"	
+            ]
+        },
+	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Family",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8"
+	    ]
+        },
+            "name": "Filmrise Movies",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	  	    	    	{
+            "name": "Filmrise Crime",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
+            ]
+        },
+	 	  	    	    	{
+            "name": "Flim Hub",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "HBO Family",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "HBO Hits",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "HBO Signature",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "HBO",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "MGM Scifi",
+            "logo": "f24.jpg",
+            "url": [
+				"https://mgmtheworks-roku-us.amagi.tv/roku-theworks/playlist.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "Movies Kingdom",
+            "logo": "f24.jpg
+            "url": [
+				"https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "Red by HBO",
+            "logo": "f24.jpg",
+            "url": [
+				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "Screamfest",
+            "logo": "f24.jpg",
+            "url": [
+				"https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8"
+            ]
+        },
+			  	    	    	{
+            "name": "fox movies",
+            "logo": "f24.jpg",
+            "url": [
+				"http://51.15.0.141:8080/fox_movies/index.m3u8?token=test"
+            ]
+        },
+			  	    	    	{
+            "name": "Fox",
+            "logo": "f24.jpg",
+            "url": [
+				"http://51.15.0.141:8080/fox/index.m3u8?token=test"
+            ]
         },		
+			  	    	    	{
+            "name": "HBO",
+            "logo": "f24.jpg",
+            "url": [
+				"http://51.15.0.141:8080/hbo/index.m3u8?token=test"
+            ]
+        },
+			  	    	    	{
+            "name": "failarmy",
+            "logo": "f24.jpg",
+            "url": [
+				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
+            ]
+        },	    
 	   {
             "name": "BBC News",
             "logo": "bbc_news.png",
