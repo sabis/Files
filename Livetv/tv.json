@@ -1272,13 +1272,6 @@
             ]
         },		
 			  	    	    	{
-            "name": "HBO",
-            "logo": "f24.jpg",
-            "url": [
-				"http://51.15.0.141:8080/hbo/index.m3u8?token=test"
-            ]
-        },
-			  	    	    	{
             "name": "failarmy",
             "logo": "f24.jpg",
             "url": [
