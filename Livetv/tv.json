@@ -1083,15 +1083,6 @@
             ]
         }, 
 	{
-            "name": "01 TV",
-            "logo": "f24.jpg",
-            "url": [
-				"https://gitlab.com/2528176/tv/-/raw/master/01TV.m3u8",
-				"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-3.m3u8",
-		    		"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-2.m3u8"
-            ]
-        },
-	{
             "name": "Mycomedy",
             "logo": "f24.jpg",
             "url": [
@@ -1134,7 +1125,16 @@
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/01.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/04.m3u8"
             ]
-        }, 	   
+        }, 
+	    	{
+            "name": "01 TV",
+            "logo": "f24.jpg",
+            "url": [
+				"https://gitlab.com/2528176/tv/-/raw/master/01TV.m3u8",
+				"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-3.m3u8",
+		    		"https://stream-06.dc3.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaluVNwFDPPjFc6MDoU4xlEgI)/dm/3/x7pctg0/s/live-2.m3u8"
+            ]
+        },
 	    	{         
 		"name": "Andprive hd",
             "logo": "f24.jpg",
@@ -1172,28 +1172,6 @@
 				"https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"	
             ]
         },
-	    	    	{
-            "name": "Filmrise Crime",
-            "logo": "f24.jpg",
-            "url": [
-				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
-            ]
-        },
-	  	    	    	{
-            "name": "Filmrise Family",
-            "logo": "f24.jpg",
-            "url": [
-				"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8"
-	    ]
-        },
-			  	    	    	{
-            "name": "Filmrise Movies",
-            "logo": "f24.jpg",
-            "url": [
-				"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8"
-            ]
-        },
-
 	 	  	    	    	{
             "name": "Flim Hub",
             "logo": "f24.jpg",
