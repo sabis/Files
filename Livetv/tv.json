@@ -461,9 +461,7 @@
             "url": [
 		    "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w953253901_b4628000_DVR_slar.m3u8",
 		    "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w953253901_b1428000_DVR_slar.m3u8",
-			"https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w953253901_b978000_DVR_slar.m3u8",
-
-		    
+			"https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w953253901_b978000_DVR_slar.m3u8",    
 		    
                 "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8",
                 "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8"
@@ -476,7 +474,6 @@
 		   "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1724449899_b4628000_slar.m3u8?user=sgls540839&session=0dd7d273b5c03f5c03cebca9f7b97020145421241271c70e35d83c833feac4457c0f8772c4f2024f",
 "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1724449899_b1428000_slar.m3u8?user=sgls540839&session=0dd7d273b5c03f5c03cebca9f7b97020145421241271c70e35d83c833feac4457c0f8772c4f2024f",
 "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w1724449899_b978000_slar.m3u8?user=sgls540839&session=0dd7d273b5c03f5c03cebca9f7b97020145421241271c70e35d83c833feac4457c0f8772c4f2024f",
-
 		    
                 "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist.m3u8",
                 "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8"
@@ -770,20 +767,8 @@
 "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/773822a64d3f90d4e8e2b66ae314b390.m3u8",
 "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/7266ac708f17a2166bc30df2cf84a6ef.m3u8",
 "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/17cf4441f18323918e2fb710eefca703.m3u8",
-"https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/17cf4441f18323918e2fb710eefca703.m3u8",
-				"https://stream-10.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF9Ibjfms4X6Vg0Zpwj360)/dm/3/x2j4lj9/d/live-0.m3u8",
-		    		"https://stream-10.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF9Ibjfms4X6Vg0Zpwj360)/dm/3/x2j4lj9/d/live-1.m3u8",
-		    		"https://stream-10.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF9Ibjfms4X6Vg0Zpwj360)/dm/3/x2j4lj9/d/live-2.m3u8",
-		    	        "https://stream-10.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF9Ibjfms4X6Vg0Zpwj360)/dm/3/x2j4lj9/d/live-3.m3u8",
-		    		"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/playlist.m3u8",
-				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_360p.m3u8",
-				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_480p.m3u8",
-				"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_576p.m3u8",
-		    		"http://euronews-fr-p-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/playlist.m3u8",
-		    		"http://euronews-fr-p7-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_576p.m3u8",
-				"http://euronews-fr-p7-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/playlist.m3u8",
-				"http://euronews-fr-p7-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_720p20.m3u8",
-				"http://euronews-fr-p7-cdn.hexaglobe.net/0f8759886a82ae657fbc6dfd6486cc74/5f9c6108/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabrfr_fre.smil/ewnsabrfr_fre_720p33.m3u8"
+"https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/17cf4441f18323918e2fb710eefca703.m3u8"
+				
             ]
         },
 			{
@@ -796,20 +781,7 @@
 "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8",
 "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8",
 "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/613cab009454397afef7944f3a6e1cd6.m3u8",
-				"https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8",
-		    		"https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-0fm5XVQ2SirtkyALM6AQI)/dm/3/x2j4h4m/s/live-3.m3u8",
-		    		"https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-0fm5XVQ2SirtkyALM6AQI)/dm/3/x2j4h4m/s/live-2.m3u8",
-		    		"https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-0fm5XVQ2SirtkyALM6AQI)/dm/3/x2j4h4m/s/live-1.m3u8",
-		    		"https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-0fm5XVQ2SirtkyALM6AQI)/dm/3/x2j4h4m/s/live-0.m3u8",
-		    		"http://euronews-en-p12-cdn.hexaglobe.net/ae7ca0c513295ad47b1262389d768c11/5f9c5e80/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/playlist.m3u8",
-		    		"http://euronews-en-p12-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8",
-				"http://euronews-en-p12-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8",
-				"http://euronews-en-p12-cdn.hexaglobe.net/2f640484c9bb4cf43f271664c3e9daa7/5f67d8ce/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8",
-		    		"http://euronews-en-p12-cdn.hexaglobe.net/ae7ca0c513295ad47b1262389d768c11/5f9c5e80/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8",
-				"http://euronews-en-p11-cdn.hexaglobe.net/032d6b4fc3bb401b5476f30c13cba4ca/5f9c57f3/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8",
-				"http://euronews-en-p12-cdn.hexaglobe.net/ae7ca0c513295ad47b1262389d768c11/5f9c5e80/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/playlist.m3u8",
-				"http://euronews-en-p12-cdn.hexaglobe.net/ae7ca0c513295ad47b1262389d768c11/5f9c5e80/euronews/euronews-euronews-mobileapp-android-universal-5/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8",",
-		    		"http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8"
+				"https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8"
             ]",
         },
 	    			{",
