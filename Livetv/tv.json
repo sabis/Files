@@ -965,7 +965,7 @@
 	    	{          
 		"name": "TF1 Séries Films",
             "logo": "f24.jpg",
-            "url": 
+            "url": [
 				"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
             ]
         }, 
