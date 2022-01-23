@@ -320,11 +320,10 @@
             "name": "Gulli",
             "logo": "f24.jpg",
             "url": [		    
+		    "http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/01.m3u8",
 		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/03.m3u8",
-
-		    "http://flusonic-4.platinum-tv.com/Gulli/index.m3u8?token=test",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8",
 		    	"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101_fre=48000-video=200000.m3u8"
             ]
@@ -341,18 +340,18 @@
             "name": "Tiji",
             "logo": "f24.jpg",
             "url": [
-		    	"http://178.132.3.162:88/Tiji/video.m3u8?token=test",
-			"http://flusonic-4.platinum-tv.com/Tiji/index.m3u8?token=test"
+		    	"http://flusonic-4.platinum-tv.com/Tiji/index.m3u8?token=test",
+		    "http://178.132.3.162:88/Tiji/video.m3u8?token=test"
             ]
         }, 	    
 	    {
             "name": "Boing",
             "logo": "f24.jpg",
             "url": [
-			"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8",
-		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8",
 		    "http://flusonic-4.platinum-tv.com/boing/index.m3u8?token=test",
 		    	"http://flusonic-4.platinum-tv.com/boing/tracks-v1a1/mono.m3u8?token=test",
+		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8",
 		    	"http://178.132.3.162:88/boing/index.m3u8?token=test"		 
             ]
         }, 	
@@ -824,9 +823,9 @@
             "logo": "f24.jpg",
             "url": [
 
-		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8",
-		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/06.m3u8",
 		    		"http://flusonic-4.platinum-tv.com/france2/index.m3u8?token=test",
+		     		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8",
+		    		"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/06.m3u8",
 		    		"https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1a35f27d9962f3c6bf29c0c798c9bb3801264b8cd008b452f60b478020449f65544e9986abf66b73f5182250e66640b857308b96838a5c222971cf190ca9f83261e957765949b4ec1c87cc3d8ff5347c6bc0375ffbc294867db5dd0cbdf556024d1d6284b8a1c56679178cc2d8a84393dd344912ed9fc69b218852ddf447cae408fdffc2f4541c9eb503fb850b39ce4e",
 		    		"https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8",			    
 		    		"https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8",
@@ -892,8 +891,8 @@
 	    "name": "LCI",
             "logo": "f24.jpg",
             "url": [
-				"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
-		    		"http://178.132.3.162:88/TF1/video.m3u8?token=test",
+				"http://178.132.3.162:88/TF1/video.m3u8?token=test",
+		    "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
 		    		"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8",
 		    		"http://190.2.138.13/LCI/index.m3u8?token=test"
             ]
@@ -966,7 +965,7 @@
 	    	{          
 		"name": "TF1 Séries Films",
             "logo": "f24.jpg",
-            "url": [
+            "url": 
 				"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
             ]
         }, 
@@ -974,6 +973,7 @@
             "name": "TF1",
             "logo": "f24.jpg",
             "url": [
+		    "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
 				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
 				"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1828.m3u8",
 		    		"http://190.2.138.13/BFM/index.m3u8?token=test"
@@ -1015,8 +1015,8 @@
             "name": "M6",
             "logo": "f24.jpg",
             "url": [
-		        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8",
-			"http://flusonic-4.platinum-tv.com/M6/index.m3u8?token=test",
+		        "http://flusonic-4.platinum-tv.com/M6/index.m3u8?token=test",
+		    "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8",
 		    	"https://gitlab.com/2528176/tv/-/raw/master/M6.m3u8"
             ]
         },		
@@ -1065,7 +1065,8 @@
             "name": "CStar",
             "logo": "f24.jpg",
             "url": [
-			"https://gitlab.com/2528176/tv/-/raw/master/cstar.m3u8",
+			"http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test",
+		    "https://gitlab.com/2528176/tv/-/raw/master/cstar.m3u8",
 		    	"http://144.217.253.140/Cstar/index.m3u8",
 			"http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8",
 		    	"https://stream-06.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOP2N1E2-C4aXQZjkhjPnEznyQYYBgA9KqZeJaH6L_13F)/p/dm/3/x5gv5v0/d/live-3.m3u8",
