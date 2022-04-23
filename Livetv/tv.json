@@ -1036,7 +1036,7 @@
             "logo": "f24.jpg",
             "url": [
 			"https://s2.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIyIDEyOjEyOjU0IEFNJmhhc2hfdmFsdWU9eTErVTQ3Mi84S0lnT2hrMzRDYlk1Zz09JnZhbGlkbWludXRlcz0zMA==",
-			"https://s2.tntendirect.com/w9/live/playlist.m3u8,
+			"https://s2.tntendirect.com/w9/live/playlist.m3u8",
 		    	"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8",
 		    	"https://gitlab.com/2528176/tv/-/raw/master/W9.m3u8"
             ]
