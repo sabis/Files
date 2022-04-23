@@ -4,8 +4,8 @@
             "name": "Quran",
             "logo": "aljazeera.jpg",
             "url": [
-			"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650665966~dirs=1~hash=0b54560e2fb3e2f808f63/ksaquran.smil/ksaquran_360p_chunks.m3u8",
-		    "http://m.live.net.sa:1935/live/quran/chunklist_w1727330706.m3u8",
+		"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650665966~dirs=1~hash=0b54560e2fb3e2f808f63/ksaquran.smil/ksaquran_360p_chunks.m3u8",
+		 "http://m.live.net.sa:1935/live/quran/chunklist_w1727330706.m3u8",
 "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_41200=1.m3u8",
 "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_97200=2.m3u8",
 "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8",
@@ -757,7 +757,7 @@
             "name": "euronews fr",
             "logo": "f24.jpg",
             "url": [
-			"https://3c2eb89f1a5b48f1b3ec43955232c5b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/86b528f1-90fe-4aac-bd74-fece18323ca3/5.m3u8",
+		"https://3c2eb89f1a5b48f1b3ec43955232c5b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/86b528f1-90fe-4aac-bd74-fece18323ca3/5.m3u8",
 		    "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
 			"https://rakuten-euronews-2-fr.samsung.wurl.com/ewnsabrfr_fre_240p-20220107232623-16658.ts",
 "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/1f5c3e85a60a920941b1e7e7455fd488.m3u8",
