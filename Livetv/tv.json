@@ -174,31 +174,6 @@
 				"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
             ]
         }, 
-	    	    	    {
-            "name": "LA UNE BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/laune_drm/laune-audio_1=128000-video=500000.m3u8"
-            ]
-		},
-	    	    {
-            "name": "LA DEUX BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/ladeux_drm/ladeux-audio_1=128000-video=500000.m3u8"
-            ]
-		},
-	    {
-            "name": "LA TROIS BELGIQUE",
-            "logo": "f24.jpg",
-            "url": [
-				"https://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8",
-		    		"http://rtbf-live.fl.freecaster.net/live/rtbf/geo/drm/latrois_drm/latrois-audio_1=128000-video=500000.m3u8"
-		    
-            ]
-		},
 	        {
             "name": "RMC DECOUVERTE",
             "logo": "natgeo.jpg",
