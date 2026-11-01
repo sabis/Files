@@ -1,183 +1,254 @@
 {
   "stations": [
-    {
-      "name": "Quran",
-      "logo": "aljazeera.jpg",
+      {
+      "name": "Al Quran Al Kareem TV (720p)",
+      "logo": "",
       "url": [
-        "https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650665966~dirs=1~hash=0b54560e2fb3e2f808f63/ksaquran.smil/ksaquran_360p_chunks.m3u8",
-        "http://m.live.net.sa:1935/live/quran/chunklist_w1727330706.m3u8",
-        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_250000=3-mp4a_41200=1.m3u8",
-        "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8",
-        "https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8",
-        "https://5b18be6964c2f.streamlock.net/live/_definst_/quran/playlist.m3u8",
-        "http://m.live.net.sa:1935/live/quran/index.m3u8",
-        "http://m.live.net.sa:1935/live/quran/chunklist.m3u8"
+        "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+        "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
       ]
     },
-    {
-      "name": "Sunna",
-      "logo": "aljazeera.jpg",
+        {
+      "name": "Al Sunnah Al Nabawiyah TV (720p)",
+      "logo": "",
       "url": [
-        "https://cllive.itworkscdn.net/ksasunnalive/token=nva=1650343109~dirs=1~hash=05a78a93df4069a50ed86/ksasunna.smil/ksasunna_source_chunks.m3u8",
-        "https://edge.taghtia.com/sa/6.m3u8",
+        "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
         "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-        "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8",
-        "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
       ]
     },
-    {
-      "name": "Makkah tv",
-      "logo": "aljazeera.jpg",
+        {
+      "name": "Iqraa Quran (1080p)",
+      "logo": "",
       "url": [
-        "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist.m3u8",
-        "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
-        "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/index.m3u8"
+        "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
       ]
     },
-    {
-      "name": "Iqraa tv",
-      "logo": "aljazeera.jpg",
+        {
+      "name": "Iqraa Arabic (1080p) [Not 24/7]",
+      "logo": "",
       "url": [
-        "http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8",
-        "http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8"
+        "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
       ]
     },
-    {
-      "name": "Iqraa tv Europe",
-      "logo": "aljazeera.jpg",
+      {
+      "name": "Iqraa Africa & Europe (1080p)",
+      "logo": "",
       "url": [
-        "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist.m3u8",
-        "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8"
+        "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8"
       ]
     },
-    {
-      "name": "Resalah tv",
-      "logo": "aljazeera.jpg",
+          {
+      "name": "Makkah TV (576p)",
+      "logo": "",
       "url": [
-        "https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index.m3u8",
-        "https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8",
-        "https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_720p/chunks.m3u8",
-        "https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_360p/chunks.m3u8"
+        "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
       ]
     },
-    {
-      "name": "Kaif tv",
-      "logo": "aljazeera.jpg",
-      "url": ["http://82.212.74.2:8000/live/hls/7311.m3u8"]
-    },
-    {
-      "name": "Ahel quran",
-      "logo": "aljazeera.jpg",
+      {
+      "name": "Al Resalah (1080p) [Geo-blocked]",
+      "logo": "",
       "url": [
-        "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8",
-        "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8",
-        "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/index.m3u8"
+        "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
       ]
     },
-    {
-      "name": "Alerth nabawi",
-      "logo": "aljazeera.jpg",
-      "url": ["http://82.212.74.2:8000/live/hls/7307.m3u8"]
-    },
-    {
-      "name": "Aljazeera",
-      "logo": "aljazeera.jpg",
+        {
+      "name": "Al Jazeera (1080p)",
+      "logo": "",
       "url": [
-        "https://live-hls-web-aja.getaj.net/AJA/04.m3u8",
-        "https://live-hls-web-aja.getaj.net/AJA/03.m3u8",
-        "https://live-hls-web-aja.getaj.net/AJA/02.m3u8",
-        "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
-        "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-        "http://edge-1192-ch-gv.filmon.com/live/3035.high.stream/playlist.m3u8"
+        "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
       ]
     },
     {
-      "name": "Aljazeera Mubasher",
-      "logo": "aljazeera_mubasher.jpg",
+      "name": "Al Jazeera 2 (1080p)",
+      "logo": "",
       "url": [
-        "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
-        "https://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
-        "https://live-hls-web-ajm.getaj.net/AJM/02.m3u8",
-        "https://live-hls-web-ajm.getaj.net/AJM/01.m3u8",
-        "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-        "http://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8"
+        "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
       ]
     },
     {
-      "name": "Aljazeera English",
-      "logo": "aljazeera.jpg",
+      "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+      "logo": "",
       "url": [
-        "https://live-hls-web-aje.getaj.net/AJE/04.m3u8",
-        "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
-        "https://live-hls-web-aje.getaj.net/AJE/02.m3u8",
-        "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
-        "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"
       ]
     },
     {
-      "name": "Aljazeera Doc",
-      "logo": "aljazeera_doc.jpg",
+      "name": "Al Jazeera English (1080p)",
+      "logo": "",
       "url": [
-        "https://live-hls-web-ajd.getaj.net/AJD/04.m3u8",
-        "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
-        "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8",
-        "https://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
-        "https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8"
+        "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "http://103.151.60.162:2122/play/a0ff/index.m3u8?hls",
+        "https://fta.ektv.in/live/318/master.m3u8"
       ]
     },
     {
-      "name": "natgeo",
-      "logo": "natgeo.jpg",
+      "name": "Al Jazeera English HD (576p)",
+      "logo": "",
       "url": [
-        "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
-        "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
-        "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8"
+        "http://stream.mcquack.net/131/index.m3u8"
       ]
     },
     {
-      "name": "RMC DECOUVERTE",
-      "logo": "natgeo.jpg",
+      "name": "Al Jazeera Mubasher (1080p)",
+      "logo": "",
       "url": [
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/04.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/03.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/02.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/01.m3u8",
-        "https://gitlab.com/2528176/tv/-/raw/master/Rmc_Decouverte.m3u8"
+        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
       ]
     },
     {
-      "name": "Animaux",
-      "logo": "f24.jpg",
+      "name": "Al Jazeera Mubasher 24 (1080p)",
+      "logo": "",
       "url": [
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/03.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/02.m3u8",
-        "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/01.m3u8"
+        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
       ]
     },
     {
-      "name": "RT Doc",
-      "logo": "f24.jpg",
+      "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+      "logo": "",
       "url": [
-        "https://rt-doc.secure.footprint.net/1101.m3u8",
-        "http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8"
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
+      ]
+    },
+            {
+      "name": "Al Araby TV (1080p)",
+      "logo": "",
+      "url": [
+        "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
       ]
     },
     {
-      "name": "CGTN Doc",
-      "logo": "f24.jpg",
-      "url": ["https://livedoc.cgtn.com/1000d/prog_index.m3u8"]
+      "name": "Al Araby TV 2 (1080p)",
+      "logo": "",
+      "url": [
+        "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+      ]
     },
     {
-      "name": "CGTN FR",
-      "logo": "f24.jpg",
-      "url": ["https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"]
+      "name": "Al Arabiya Al Hadath (1080p) [Not 24/7]",
+      "logo": "",
+      "url": [
+        "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+        "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+      ]
     },
     {
-      "name": "CGTN EN",
-      "logo": "f24.jpg",
-      "url": ["https://live.cgtn.com/1000/prog_index.m3u8"]
+      "name": "Al Arabiya English (1080p)",
+      "logo": "",
+      "url": [
+        "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+        "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8"
+      ]
+    },
+    {
+      "name": "Asharq Discovery (1080p)",
+      "logo": "",
+      "url": [
+        "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+      ]
+    },
+    {
+      "name": "Asharq Documentary (1080p)",
+      "logo": "",
+      "url": [
+        "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
+      ]
+    },
+    {
+      "name": "Asharq News (1080p)",
+      "logo": "",
+      "url": [
+        "https://live-news.asharq.com/asharq.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      ]
+    },
+    {
+      "name": "2M",
+      "logo": "",
+      "url": [
+        "http://185.9.2.18/chid_218/index.m3u8"
+      ]
+    },
+    {
+      "name": "2M Monde (360p)",
+      "logo": "",
+      "url": [
+        "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+      ]
+    },
+    {
+      "name": "2M Monde +1 (1080p)",
+      "logo": "",
+      "url": [
+        "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+      ]
+    },
+    {
+      "name": "Al Maghribia (1080p)",
+      "logo": "",
+      "url": [
+        "http://185.9.2.18/chid_205/index.m3u8"
+      ]
+    },
+    {
+      "name": "Arryadia (720p)",
+      "logo": "",
+      "url": [
+        "http://149.100.11.252:8000/play/a065/index.m3u8"
+      ]
+    },
+    {
+      "name": "Medi1TV Afrique (1080p)",
+      "logo": "",
+      "url": [
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
+      ]
+    },
+    {
+      "name": "Medi 1 TV Arabic (1080p)",
+      "logo": "",
+      "url": [
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8"
+      ]
+    },
+    {
+      "name": "Medi 1 TV Maghreb (1080p)",
+      "logo": "",
+      "url": [
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8"
+      ]
     }
+
+
   ]
 }
