@@ -212,35 +212,72 @@
       "name": "2M",
       "logo": "",
       "url": [
-        "http://185.9.2.18/chid_218/index.m3u8"
+        "http://185.9.2.18/chid_218/index.m3u8",
+        "https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/e3579f3d-3b74-4578-9c5b-0c1ee80e6d7c/3.m3u8"
       ]
     },
     {
       "name": "2M Monde",
       "logo": "",
       "url": [
-        "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+        "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_499968=2-mp4a_294400_ara=1.m3u8"
       ]
     },
     {
       "name": "2M Monde +1",
       "logo": "",
       "url": [
-        "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+        "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "http://185.9.2.18/chid_218/tracks-v1a1/mono.m3u8"
       ]
     },
     {
       "name": "Al Maghribia",
       "logo": "",
       "url": [
-        "http://185.9.2.18/chid_205/index.m3u8"
+        "http://185.9.2.18/chid_205/index.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/dvr_v_p3366_42429000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/dvr_v_p3366_42441000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/dvr_v_p3364_42495000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/dvr_v_p3364_42513000.ts"
+      ]
+    },
+            {
+      "name": "Arrabia",
+      "logo": "",
+      "url": [
+    "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/dvr_v_p3948_8283174.ts",
+"https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_360p/dvr_v_p3949_8317961.ts",
+"https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/dvr_v_p3948_8343174.ts"
+      ]
+    },
+        {
+      "name": "Assadissa",
+      "logo": "",
+      "url": [
+        "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/dvr_v_p2991_3795000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8?token=p9mSL0Ij5oeoIY7rHqrs05Vz_LDJhhLJRCcKu7L-u2E&token_path=%2Fabr_corp",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/dvr_v_p3000_3843000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/dvr_v_p3000_3861000.ts"
+      ]
+    },
+    {
+      "name": "Tamazight",
+      "logo": "",
+      "url": [
+        "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/dvr_v_p2876_19563000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_360p/dvr_v_p2851_19580938.ts"
       ]
     },
     {
       "name": "Arryadia",
       "logo": "",
       "url": [
-        "http://149.100.11.252:8000/play/a065/index.m3u8"
+        "http://149.100.11.252:8000/play/a065/index.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/dvr_v_p2650_8535000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/dvr_v_p2647_8391000.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/dvr_v_p2647_8403000.ts"
       ]
     },
     {
@@ -248,7 +285,9 @@
       "logo": "",
       "url": [
         "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_240p/chunks.m3u8",
+		"https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_240p/l_2431_12008234_3259.ts"
       ]
     },
     {
@@ -256,7 +295,11 @@
       "logo": "",
       "url": [
         "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_240p/l_2338_12036234_8910.ts",
+		"https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_240p/chunks.m3u8",
+		"https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_240p/chunks.m3u8"
+
       ]
     },
     {
@@ -264,7 +307,9 @@
       "logo": "",
       "url": [
         "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/corp/83_medi1tv-afrique_tm7tu45_240p/chunks.m3u8"
+
       ]
     },
     {
