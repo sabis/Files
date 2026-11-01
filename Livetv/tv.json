@@ -190,6 +190,25 @@
       ]
     },
     {
+      "name": "BBC Arabic",
+      "logo": "",
+      "url": [
+        "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
+        "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"               
+      ]
+    },
+    {
+      "name": "France24 Arabic",
+      "logo": "",
+      "url": [
+		"https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+		"https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+		"https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+		"https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8"
+      ]
+    },    
+    
+    {
       "name": "2M",
       "logo": "",
       "url": [
@@ -211,7 +230,7 @@
       ]
     },
     {
-      "name": "Maghribia",
+      "name": "Al Maghribia",
       "logo": "",
       "url": [
         "http://185.9.2.18/chid_205/index.m3u8"
@@ -247,7 +266,29 @@
         "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
         "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
       ]
-    }
+    },
+    {
+      "name": "Gulli",
+      "logo": "",
+      "url": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ]
+    },
+    {
+      "name": "Caillou",
+      "logo": "",
+      "url": [
+        "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+      ]
+    },    
+    {
+      "name": "TiVi5",
+      "logo": "",
+      "url": [
+        "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8"
+      ]
+    },    
+    
 
   ]
 }
