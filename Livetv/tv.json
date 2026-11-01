@@ -54,7 +54,7 @@
       ]
     },
         {
-      "name": "Jazeera",
+      "name": "AlJazeera",
       "logo": "",
       "url": [
         "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
@@ -66,14 +66,14 @@
       ]
     },
     {
-      "name": "Jazeera 2",
+      "name": "AlJazeera 2",
       "logo": "",
       "url": [
         "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
       ]
     },
     {
-      "name": "Jazeera Doc",
+      "name": "AlJazeera Documentary",
       "logo": "",
       "url": [
         "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": "Jazeera English",
+      "name": "AlJazeera English",
       "logo": "",
       "url": [
         "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
@@ -97,14 +97,14 @@
       ]
     },
     {
-      "name": "Jazeera Eng HD",
+      "name": "AlJazeera Eng HD",
       "logo": "",
       "url": [
         "http://stream.mcquack.net/131/index.m3u8"
       ]
     },
     {
-      "name": "Jazeera Mubasher",
+      "name": "AlJazeera Mubasher",
       "logo": "",
       "url": [
         "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Jazeera Mubasher 24",
+      "name": "AlJazeera Mubasher 24",
       "logo": "",
       "url": [
         "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Jazeera Mubasher 2",
+      "name": "AlJazeera Mubasher 2",
       "logo": "",
       "url": [
         "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Arabiya Hadath",
+      "name": "AlArabiya Hadath",
       "logo": "",
       "url": [
         "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "name": "Arabiya English",
+      "name": "AlArabiya English",
       "logo": "",
       "url": [
         "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
